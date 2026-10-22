@@ -1,0 +1,297 @@
+==============================================================================
+REPORTE DE VALIDACION - ARCHIVO PLANO CAC (SISCAC 4.0)
+EAPB: ESS062   Periodo: 2/1/2025 - 1/1/2026   Corte: 2027-01-01
+==============================================================================
+
+Registros procesados : 622
+Reglas de validacion : 768
+Correcciones aplicadas: 9475
+Errores              : 1719
+Advertencias         : 18
+
+------------------------------------------------------------------------------
+CORRECCIONES AUTOMATICAS POR VARIABLE
+------------------------------------------------------------------------------
+  V25         622 registros   VAR25_CodigoValidoHabilitacionIPS
+  V133        622 registros   VAR133_SerialBDUA
+  V125        606 registros   VAR125_TipoTratamientoRecibiendoUsuarioFechaCorte
+  V126        602 registros   VAR126_ResultadoFinalManejoOncologicoCorte
+  V15         515 registros   VAR15_NumeroTelefonicopaciente
+  V129        342 registros   VAR129_NovedadClinicaUsuarioFechaCorte
+  V41         303 registros   VAR41_ObjetivoIntervencionMedicaPeriodoReporte
+  V48         259 registros   VAR48_UbicacionTtemporalPrimerCicloRelacionOncologico
+  V49         259 registros   VAR49_FechaInicioPrimerCicloQuimioterapiaCorte
+  V53         259 registros   VAR53_MedicamentosAntineoplasicosPrimerCicloCorte
+  V53.1       259 registros   VAR53_MedicamentosAntineoplasicosPrimerCicloCorte
+  V61         259 registros   VAR61_UbicacionTemporalUltimoCicloCorteOncologico
+  V63         259 registros   VAR63_NumeroIPSSuministranUltimoCicloCorte
+  V64         259 registros   VAR64_CodigoIPS1SuministraUltimoCicloReporte
+  V66         259 registros   VAR66_MedicamentosAntineoplasicosEspecialistaCancer
+  V66.1       259 registros   VAR66_MedicamentosAntineoplasicosEspecialistaCancer
+  V66.2       259 registros   VAR66_MedicamentosAntineoplasicosEspecialistaCancer
+  V66.3       259 registros   VAR66_MedicamentosAntineoplasicosEspecialistaCancer
+  V66.4       259 registros   VAR66_MedicamentosAntineoplasicosEspecialistaCancer
+  V66.5       259 registros   VAR66_MedicamentosAntineoplasicosEspecialistaCancer
+  V66.6       259 registros   VAR66_MedicamentosAntineoplasicosEspecialistaCancer
+  V66.7       259 registros   VAR66_MedicamentosAntineoplasicosEspecialistaCancer
+  V66.8       259 registros   VAR66_MedicamentosAntineoplasicosEspecialistaCancer
+  V66.9       259 registros   VAR66_MedicamentosAntineoplasicosEspecialistaCancer
+  V67         259 registros   VAR67_MedicamentoNoPOS1AdministradoUsuarioUltimoCiclo
+  V68         259 registros   VAR68_MedicamentoNoPOS2AdministradoUsuarioUltimoCiclo
+  V69         259 registros   VAR69_MedicamentoNoPOS3AdministradoUsuarioUltimoCiclo
+  V71         259 registros   VAR71_FechaFinalizacionCicloUltimo
+  V72         259 registros   VAR72_CaracteristicasActualesUltimoCicloCorte
+  V9           95 registros   VAR9_Ocupacion
+  V58          24 registros   VAR58_FechaFinalizacionPrimerCicloCorte
+  V10          23 registros   VAR10_RegimenAfiliacionSGSSS
+  V22          11 registros   VAR22_MotivoUsuarioNOTuvoDiagnostico
+  V29          10 registros   VAR29_SiEsTumorSolido
+  V128          2 registros   VAR128_NovedadADMINISTRATIVAUsuarioReporteAnterior
+
+------------------------------------------------------------------------------
+MOTIVO DE CADA CORRECCION
+------------------------------------------------------------------------------
+  V25         622 registros   REPS de la IPS que reporta (marcador de posicion)
+  V133        622 registros   serial BDUA no informado
+  V15         514 registros   V15 normalizado a 10 digitos
+  V125        260 registros   V45 = 98 y V114 = 2: antecedente de cancer
+  V126        260 registros   V125 = 9: en seguimiento por antecedente de cancer
+  V49         259 registros   V49 = 0 en la fuente (supuesto: fecha de diagnostico V18)
+  V53         259 registros   V53 = 0 en la fuente (supuesto: un medicamento propuesto)
+  V53.1       259 registros   codigo ATC no informado en la fuente
+  V61         259 registros   ultimo ciclo en curso: ubicacion temporal del ultimo ciclo
+  V63         259 registros   ultimo ciclo: una sola IPS lo suministra
+  V64         259 registros   ultimo ciclo: REPS de la IPS que lo suministra
+  V66         259 registros   ultimo ciclo: un medicamento antineoplasico
+  V66.1       259 registros   ultimo ciclo: codigo ATC no informado en la fuente
+  V66.2       259 registros   ultimo ciclo: no hay mas medicamentos
+  V66.3       259 registros   ultimo ciclo: no hay mas medicamentos
+  V66.4       259 registros   ultimo ciclo: no hay mas medicamentos
+  V66.5       259 registros   ultimo ciclo: no hay mas medicamentos
+  V66.6       259 registros   ultimo ciclo: no hay mas medicamentos
+  V66.7       259 registros   ultimo ciclo: no hay mas medicamentos
+  V66.8       259 registros   ultimo ciclo: no hay mas medicamentos
+  V66.9       259 registros   ultimo ciclo: no hay mas medicamentos
+  V67         259 registros   ultimo ciclo: sin medicamento no POS
+  V68         259 registros   ultimo ciclo: sin segundo medicamento no POS
+  V69         259 registros   ultimo ciclo: sin tercer medicamento no POS
+  V71         259 registros   ultimo ciclo en curso: sin fecha de finalizacion
+  V72         259 registros   ultimo ciclo en curso: no finalizado
+  V41         249 registros   V45 = 98 y V114 = 2: seguimiento tras el tratamiento inicial
+  V125        249 registros   V45 = 1: recibe terapia sistemica a la fecha de corte
+  V126        249 registros   V45 = 1: enfermedad estable
+  V129        249 registros   V45 = 1: usuario en manejo inicial curativo
+  V48         194 registros   V48 = 0 en la fuente (supuesto: tratamiento inicial curativo)
+  V125         92 registros   V114 = 1: manejo de cuidado paliativo a la fecha de corte
+  V126         92 registros   V114 = 1: enfermedad estable
+  V129         92 registros   V114 = 1: usuario en manejo paliativo
+  V9           86 registros   V9 con texto/valor no valido -> 9999
+  V48          65 registros   V48 = 0 en la fuente (supuesto: manejo paliativo)
+  V41          34 registros   V45 = 1: el objetivo fue ofrecer tratamiento
+  V58          24 registros   V59 = 3: el primer ciclo sigue vigente
+  V10          23 registros   V11 = ESS062: V10 = C
+  V41          20 registros   V114 = 1: se ofrecio manejo paliativo
+  V22           9 registros   V21 = 10 (sin diagnostico por histopatologia): V22 = 98
+  V9            9 registros   V9 con valor invalido -> 9999
+  V125          5 registros   V58 = 1800-01-01: V125 = 2 (terapia sistemica)
+  V29           4 registros   V17 = D060 (neoplasia in situ): V29 = 0
+  V22           2 registros   V21 = 5 (sin diagnostico por histopatologia): V22 = 98
+  V29           2 registros   V33 = 97 (sin prueba HER2): V29 = 0
+  V128          1 registros   V129 = 8 (abandono de tratamiento): V128 = 9
+  V29           1 registros   V17 = D061 (neoplasia in situ): V29 = 0
+  V29           1 registros   V17 = D097 (neoplasia in situ): V29 = 0
+  V126          1 registros   V127 = 2 (fallecido): V126 = 99
+  V128          1 registros   V127 = 2 (fallecido): V128 = 4
+  V129          1 registros   V127 = 2 (fallecido): V129 = 12
+  V29           1 registros   V17 = D002 (neoplasia in situ): V29 = 0
+  V15           1 registros   V15 con menos de 10 digitos -> 0
+  V29           1 registros   V17 = D037 (neoplasia in situ): V29 = 0
+
+------------------------------------------------------------------------------
+SUPUESTOS DECLARADOS (requieren confirmacion)
+------------------------------------------------------------------------------
+  V25  : la fuente trae marcadores de posicion ('IPS', '1234567890', '99', '96'); se graba el REPS de la IPS que reporta. Falta el REPS real de cada IPS.
+  V41  : se recalcula el objetivo de la intervencion a partir de lo que el paciente recibio de verdad (V45, V114) y de la novedad clinica (V129): 2 (ofrecer tratamiento) o 3 (seguimiento posterior al tratamiento).
+  V48  : la fuente trae 0; se usa 13 (paliacion) si V40 = 2 y 2 (tratamiento inicial curativo) en los demas casos.
+  V49  : la fuente trae 0; se usa la fecha de diagnostico (V18).
+  V53  : la fuente trae 0 (cantidad de medicamentos no informada); se declara 1 medicamento antineoplasico (unico valor admisible: 99 obligaria a V128 = 14, que el instructivo de 2026 no admite).
+  V53.1 : se usa 99 (codigo ATC no informado); V53.2 a V56 se conservan en 97 (no aplica, no hay mas medicamentos registrados).
+  V125 : se deduce del tratamiento registrado: 2 (terapia sistemica) si hubo quimio en el periodo, 8 (en seguimiento) si ademas hubo manejo paliativo y 9 (antecedente de cancer) si no hubo ningun tratamiento en el periodo.
+  V126 : 5 (enfermedad estable) cuando hubo terapia sistemica y 98 (no aplica en este periodo) cuando el paciente esta en seguimiento.
+  V128 : 0 (sin novedad) salvo diagnostico en el periodo (2), abandono de tratamiento (9) o fallecimiento (4).
+  V133 : la fuente viene vacia en toda la cohorte; se graba 0.
+  Traslado de fechas: las reglas son del periodo 2024 y sus fechas de periodo se trasladaron a 2026 (2023-01-01 -> 2025-01-01, 2024-01-01 -> 2026-01-01, 2022-11-01 -> 2025-11-01, 2021-01-01 -> 2023-01-01).
+
+------------------------------------------------------------------------------
+ERRORES POR REGLA
+------------------------------------------------------------------------------
+  [DEFINICION] V134          622 registros
+             ej.: valor '2027-01-01' incumple: definicion de V134: valores admitidos ['2026-01-01']
+             filas: 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 ...
+  [B4814   ] V128          333 registros
+             ej.: valor '0' incumple: Cuando V18 sea > 2023-01-01 Entonces V128Novedad ADMINISTRATIVA respecto al reporte anteri
+             filas: 12, 21, 35, 95, 98, 115, 122, 133, 134, 149, 159, 161 ...
+  [B4840   ] V128          318 registros
+             ej.: valor '0' incumple: Cuando V23 sea > 2023-01-01 Entonces V128Novedad ADMINISTRATIVA respecto al reporte anteri
+             filas: 12, 21, 35, 74, 98, 122, 133, 159, 167, 181, 205, 216 ...
+  [B4846   ] V128          291 registros
+             ej.: valor '0' incumple: Cuando V24 sea > 2023-01-01 Entonces V128Novedad ADMINISTRATIVA respecto al reporte anteri
+             filas: 12, 21, 35, 86, 122, 133, 159, 161, 167, 181, 198, 205 ...
+  [B4817   ] V20            32 registros
+             ej.: valor '2023-02-09' incumple: Cuando V18 sea < 2017-01-01 Entonces V20Fecha de ingreso a la institución que rea
+             filas: 4, 5, 8, 25, 38, 39, 45, 66, 105, 110, 141, 151 ...
+  [B4653   ] V10            24 registros
+             ej.: valor 'S' incumple: Cuando V16 sea < 1993-01-01 Entonces V10Régimen de afiliación AL SGSSS DEBE SER <> S
+             filas: 9, 67, 70, 88, 89, 94, 98, 108, 121, 122, 128, 129 ...
+  [B4887   ] V17            19 registros
+             ej.: valor 'C189' incumple: Cuando V34 sea = 98 Entonces V17Nombre de la neoplasia (cáncer o tumor) maligna reporta
+             filas: 86, 95, 107, 165, 179, 218, 222, 240, 244, 281, 307, 354 ...
+  [B5269   ] V125           10 registros
+             ej.: valor '8' incumple: Cuando V126 sea = 7 Entonces V125Tipo de tratamiento que está recibiendo el usuario a la f
+             filas: 4, 5, 6, 8, 10, 11, 17, 32, 33, 37
+  [B4921   ] V45             5 registros
+             ej.: valor '1' incumple: Cuando V41 sea = 3 Entonces V45Recibió el usuario quimioterapia u otra terapia sistémica d
+             filas: 7, 10, 11, 13, 23
+  [B4916   ] V45             5 registros
+             ej.: valor '98' incumple: Cuando V41 sea = 2 Entonces V45Recibió el usuario quimioterapia u otra terapia sistémica 
+             filas: 8, 14, 17, 26, 32
+  [B5454   ] V34             5 registros
+             ej.: valor '98' incumple: Cuando V17 sea = C187 Entonces V34Para cáncer colorrectal estadificación de Dukes DEBE SE
+             filas: 95, 240, 281, 404, 509
+  [B5260   ] V41             4 registros
+             ej.: valor '3' incumple: Cuando V125 sea = 8 Entonces V41Objetivo de la intervención médica durante el periodo de r
+             filas: 4, 5, 33, 37
+  [B4864   ] V33             4 registros
+             ej.: valor '1' incumple: Cuando V31 sea = 1 Entonces V32fecha de realización de la primera o única prueba HER2 DEBE
+             filas: 47, 93, 168, 345
+  [B5456   ] V34             4 registros
+             ej.: valor '98' incumple: Cuando V17 sea = C189 Entonces V34Para cáncer colorrectal estadificación de Dukes DEBE SE
+             filas: 86, 218, 222, 307
+  [B5458   ] V34             4 registros
+             ej.: valor '98' incumple: Cuando V17 sea = C20X Entonces V34Para cáncer colorrectal estadificación de Dukes DEBE SE
+             filas: 165, 244, 401, 591
+  [B5724   ] V27             4 registros
+             ej.: valor '99' incumple: Cuando V17 sea = C430 Entonces V27Histología del tumor en muestra de biopsia o quirúrgica
+             filas: 328, 434, 557, 565
+  [A       ] V28             2 registros
+             ej.: valor '55' fuera del dominio permitido ['1', '2', '3', '4', '94', '95', '98', '99']
+             filas: 41, 43
+  [A       ] V40             2 registros
+             ej.: valor '55' fuera del dominio permitido ['1', '2', '3', '99']
+             filas: 43, 46
+  [DEFINICION] V28             2 registros
+             ej.: valor '55' incumple: definicion de V28: valores admitidos ['94', '95', '98', '99'] o V28 >= 1 y V28 <= 4
+             filas: 41, 43
+  [B4914   ] V128            2 registros
+             ej.: valor '0' incumple: Cuando V40 sea = 55 Entonces V128Novedad ADMINISTRATIVA respecto al reporte anterior DEBE 
+             filas: 43, 46
+  [B5451   ] V34             2 registros
+             ej.: valor '98' incumple: Cuando V17 sea = C184 Entonces V34Para cáncer colorrectal estadificación de Dukes DEBE SE
+             filas: 107, 535
+  [B5453   ] V34             2 registros
+             ej.: valor '98' incumple: Cuando V17 sea = C186 Entonces V34Para cáncer colorrectal estadificación de Dukes DEBE SE
+             filas: 179, 360
+  [B5449   ] V34             2 registros
+             ej.: valor '98' incumple: Cuando V17 sea = C182 Entonces V34Para cáncer colorrectal estadificación de Dukes DEBE SE
+             filas: 354, 600
+  [B5530   ] V17             2 registros
+             ej.: valor 'C699' incumple: Cuando V27 sea = 23 Entonces V17Nombre de la neoplasia (cáncer o tumor) maligna reporta
+             filas: 413, 460
+  [A       ] V21             1 registros
+             ej.: valor '55' fuera del dominio permitido ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', '99']
+             filas: 46
+  [A       ] V33             1 registros
+             ej.: valor '.' fuera del dominio permitido ['1', '2', '3', '4', '97', '98', '99']
+             filas: 262
+  [B5279   ] V126            1 registros
+             ej.: valor '5' incumple: Cuando V128 sea = 9 Entonces V129Novedad clínica a la fecha de corte DEBE SER = 8
+             filas: 2
+  [B5254   ] V58             1 registros
+             ej.: valor '1845-01-01' incumple: Cuando V125 sea = 2 Entonces V58Fecha de finalización del primer ciclo de este co
+             filas: 9
+  [B5263   ] V114            1 registros
+             ej.: valor '2' incumple: Cuando V125 sea = 11 Entonces V114Valorado en cons o proc cuidado paliativo DEBE SER = 1
+             filas: 14
+  [B5259   ] V126            1 registros
+             ej.: valor '4' incumple: Cuando V125 sea = 7 Entonces V126Resultado final del manejo oncológico en este corte DEBE 
+             filas: 18
+  [B5517   ] V45             1 registros
+             ej.: valor '98' incumple: Cuando V126 sea = 97 Entonces V45Recibió el usuario quimioterapia u otra terapia sistémic
+             filas: 26
+  [DEFINICION] V21             1 registros
+             ej.: valor '55' incumple: definicion de V21: valores admitidos ['99'] o V21 >= 1 y V21 <= 10
+             filas: 46
+  [B4817   ] V19             1 registros
+             ej.: valor '2023-10-10' incumple: Cuando V18 sea < 2017-01-01 Entonces V20Fecha de ingreso a la institución que rea
+             filas: 47
+  [B4857   ] V29             1 registros
+             ej.: valor '2' incumple: Cuando V28 sea = 95 Entonces V29Primera estadificación basada en TNM FIGO DEBE SER = 98
+             filas: 47
+  [B4922   ] V45             1 registros
+             ej.: valor '1' incumple: Cuando V41 sea = 99 Entonces V45Recibió el usuario quimioterapia u otra terapia sistémica 
+             filas: 47
+  [B5114   ] V125            1 registros
+             ej.: valor '98' incumple: Cuando V71 sea = 1800-01-01 Entonces V125Tipo de tratamiento que está recibiendo el usuar
+             filas: 184
+  [B5271   ] V132            1 registros
+             ej.: valor '98' incumple: Cuando V127 sea = 2 Entonces V129Novedad clínica a la fecha de corte DEBE SER = 12
+             filas: 184
+  [B5519   ] V59             1 registros
+             ej.: valor '3' incumple: Cuando V127 sea = 2 Entonces V59Características actuales del primer ciclo de este corte DE
+             filas: 184
+  [B5520   ] V72             1 registros
+             ej.: valor '3' incumple: Cuando V127 sea = 2 Entonces V72Características actuales del último ciclo de este corte DE
+             filas: 184
+  [B5283   ] V132            1 registros
+             ej.: valor '98' incumple: Cuando V128 sea = 4 Entonces V127Estado vital al finalizar este corte DEBE SER = 2
+             filas: 184
+  [B5297   ] V127            1 registros
+             ej.: valor '2' incumple: Cuando V132 sea = 98 Entonces V127Estado vital al finalizar este corte DEBE SER <> 2
+             filas: 184
+  [DEFINICION] V33             1 registros
+             ej.: valor '.' incumple: definicion de V33: valores admitidos ['97', '98', '99'] o V33 >= 1 y V33 <= 4
+             filas: 262
+  [B5820   ] V17             1 registros
+             ej.: valor 'C900' incumple: Cuando V38 sea = 98 Entonces V17Nombre de la neoplasia (cáncer o tumor) maligna reporta
+             filas: 447
+
+------------------------------------------------------------------------------
+ADVERTENCIAS POR REGLA
+------------------------------------------------------------------------------
+  [DOMINIO ] V21             1 registros
+             ej.: instructivo ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', '99'] vs archivo de reglas ['99']
+  [DOMINIO ] V22             1 registros
+             ej.: instructivo ['1', '2', '3', '4', '5', '6', '98', '99'] vs archivo de reglas ['98', '99']
+  [DOMINIO ] V27             1 registros
+             ej.: instructivo ['1', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '2', '20', '21', '23', '24', '3'
+  [DOMINIO ] V28             1 registros
+             ej.: instructivo ['1', '2', '3', '4', '94', '95', '98', '99'] vs archivo de reglas ['94', '95', '98', '99']
+  [DOMINIO ] V29             1 registros
+             ej.: instructivo ['0', '1', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '2', '20', '21', '22', '23'
+  [DOMINIO ] V31             1 registros
+             ej.: instructivo ['1', '2', '97', '98', '99'] vs archivo de reglas ['97', '98', '99']
+  [DOMINIO ] V33             1 registros
+             ej.: instructivo ['1', '2', '3', '4', '97', '98', '99'] vs archivo de reglas ['97', '98', '99']
+  [DOMINIO ] V34             1 registros
+             ej.: instructivo ['1', '2', '3', '4', '98', '99'] vs archivo de reglas ['97', '98', '99']
+  [DOMINIO ] V36             1 registros
+             ej.: instructivo ['1', '10', '11', '12', '13', '14', '15', '16', '2', '3', '4', '5', '6', '7', '8', '9', '98', '99'
+  [DOMINIO ] V37             1 registros
+             ej.: instructivo ['11', '12', '13', '14', '15', '97', '98', '99'] vs archivo de reglas ['97', '98', '99']
+  [DOMINIO ] V38             1 registros
+             ej.: instructivo ['1', '2', '3', '4', '5', '98', '99'] vs archivo de reglas ['98', '99']
+  [DOMINIO ] V59             1 registros
+             ej.: instructivo ['1', '2', '3', '98'] vs archivo de reglas ['98']
+  [DOMINIO ] V60             1 registros
+             ej.: instructivo ['1', '2', '3', '4', '5', '6', '7', '8', '98'] vs archivo de reglas ['98']
+  [DOMINIO ] V73             1 registros
+             ej.: instructivo ['1', '2', '3', '4', '5', '6', '7', '8', '98'] vs archivo de reglas ['55', '98']
+  [DOMINIO ] V96             1 registros
+             ej.: instructivo ['1', '2', '3', '4', '5', '6', '7', '98'] vs archivo de reglas ['98']
+  [DOMINIO ] V107            1 registros
+             ej.: instructivo ['1', '2', '3', '4', '5', '6', '7', '8', '9', '98'] vs archivo de reglas ['98']
+  [DOMINIO ] V126            1 registros
+             ej.: instructivo ['1', '2', '3', '4', '5', '6', '7', '8', '97', '98', '99'] vs archivo de reglas ['97', '98', '99']
+  [DOMINIO ] V129            1 registros
+             ej.: instructivo ['1', '10', '11', '12', '3', '8', '9'] vs archivo de reglas ['1', '10', '11', '12', '3', '55', '8'
+

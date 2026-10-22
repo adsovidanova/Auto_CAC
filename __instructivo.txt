@@ -1,0 +1,2834 @@
+
+======================================================================
+### PAGINA 1
+======================================================================
+ 
+Página 1 de 61 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Versión N° 1  |13 Febrero de 2026 
+Emisión inicial 
+2 de enero de 2025 al 1° de enero de 2026 
+======================================================================
+### PAGINA 2
+======================================================================
+ 
+Página 2 de 61 
+ 
+INSTRUCTIVO PARA FACILITAR EL REPORTE DE INFORMACIÓN DE CÁNCER 
+DE ACUERDO CON LO DISPUESTO EN LA RESOLUCIÓN 0247 DE 2014 
+Medición: 2 de enero del 2025 al 1º de enero del 2026 
+ 
+Este instructivo tiene como objetivo disponer las indicaciones y parámetros para que las 
+entidades e instituciones prestadoras de servicios en salud  (IPS)realicen la construcción de la 
+información, seguimiento y gestión del riesgo en salud de la población con cáncer. En el 
+desarrollo del documento se describen las poblaciones, fechas de actividades, variables, opciones 
+de respuesta y aclaraciones. Ante cualquier inquietud registrarla mediante la mesa de ayuda en 
+la plataforma SISCAC 4.0 con el detalle completo del caso.  
+ 
+El plazo máximo para presentar la información completa de la cohorte de cáncer es el 5 de mayo 
+de 2026, las empresas administradoras de planes de beneficios en salud (EAPB) deben disponer 
+la base de datos a la Cuenta de Alto Costo (CAC) mediante la plataforma SISCAC4.0 conforme los 
+pasos que se describen en el manual de auditoría para este periodo.   
+ 
+Las poblaciones para reportar son: 
+ 
+Para la cohorte de cáncer se deben informar todas las personas con cáncer confirmado, y que  
+presente cualquiera de los siguientes contextos: 
+ 
+• Las personas para reportar son aquellas con diagnóstico histopatológico confirmatorio de 
+cáncer in situ o invasor y aquellas con diagnóstico clínico en manejo para cáncer, que se 
+encontraban vivas y activas, fallecidas, y desafiliadas a la EAPB (incluidas las de régimen 
+de excepción y las Direcciones Departamentales y Distritales de Salud) del 2 de enero de 
+2025 al 1° de enero de 2026.  
+• Todas aquellas que se encuentran en el seguimiento de la cohorte y que tienen validación 
+previa del diagnóstico de cáncer por la CAC, con los datos históricos del diagnóstico según 
+corresponda y las atenciones en salud brindadas en el periodo establecido.  
+• Los casos que presentaron inconsistencia de “cáncer diferente al reportado” en el periodo 
+anterior, los cuales deben ser informados con el diagnóstico correcto, basados en el tipo 
+histológico y localización determinada. Los pacientes a quienes luego de ser estudiados, 
+se les confirmó la enfermedad maligna, pero en el periodo inmediatamente anterior, 
+fueron marcados con la causal de “tumor en estudio o sospecha” o “sin sustento de 
+diagnóstico, pero que recibieron tratamiento para el manejo de cáncer”, lo s cuales son 
+identificados como casos nuevos para el objeto de la auditoría. 
+• Los usuarios con diagnóstico confirmado de cáncer que tuvieron trasladados entre EAPB 
+para el periodo mencionado.   
+ 
+======================================================================
+### PAGINA 3
+======================================================================
+ 
+Página 3 de 61 
+ 
+• Los usuarios con diagnóstico de cáncer confirmado en periodos previos a la presente 
+medición y que no hayan sido reportados a la fecha la CAC. En estos casos puede ocurrir 
+que no se cuente con los datos completos para las variables del momento del diagnóstico 
+(fechas, estadificación y/o clasificación del riesgo), por lo cual se debe garantizar un dato 
+válido para la fecha del diagnóstico  y de reporte de patología (variables 18 y 24 
+respectivamente), no pueden tener comodín 1800 -01-01. El soporte válido para  estos 
+casos es la historia clínica del especialista tratante en la que se detalle de manera 
+completa el diagnóstico, reporte de patología, evolución de la enfermedad y tratamiento 
+del cáncer reportado. No serán válidos soportes de medicina general, medicina familiar 
+ni especialidades no relacionadas  con el diagnóstico del cáncer , tampoco soportes de 
+atenciones que  mencionan antecedente de cáncer sin información que sustente el 
+diagnóstico ni el tratamiento. 
+ 
+Es fundamental que se disponga el reporte de histopatología (básica e inmunohistoquímica según 
+aplique), para la totalidad de los casos reportados por primera vez a la CAC ; si el diagnóstico  
+histopatológico se llevó a cabo durante el periodo (2 de enero de 2025 al 1 de enero 2026), el no 
+contar con el soporte de análisis de patología generado por la IPS que proceso la muestra  o su 
+descripción detallada en la historia clínica será objeto de inconsistencia. 
+ 
+En los casos reportados por primera a la CAC  (nuevos) y en los cuales las variables relacionadas 
+con el momento del diagnóstico (var18 a var39) cuenten con opción de respuesta no realizado o 
+datos desconocidos, en el proceso de calidad de los datos serán calificados como datos no 
+gestionados, excepto en los pacientes con diagnóstico de cáncer anterior al 2015-01-01 y después 
+del 2025-11-01. Aclaramos, la clasificación de calidad como datos no gestionados en las variables 
+del diagnóstico no aplica para los p acientes con tipo requerido  “activocac”, ya que en estos  las 
+variables del diagnóstico fueron validadas en periodos previos y son datos que no cambian, y en 
+el periodo actual se verifica la información del tratamiento y seguimiento en el periodo, ya que.  
+ 
+Los pacientes con diagnóstico de cáncer confirmado por histopatología a partir del 1 de 
+noviembre de 2025 que no alcanzaron a tener la estadificación del tumor, clasificación del riesgo, 
+o primera consulta en la que se define el manejo terapéutico, Gleason, en los pacientes con 
+cáncer de próstata ni HER2 en los de cáncer de mama, reportar en las variables 26, 29, 30, 31, 
+32, 33, 36, 37, 38 y 39 la opción de respuesta 1800 -01-01 y 99 según co rresponda. Así mismo, 
+una vez obtenida la información para el próxi mo periodo, deben realizar la debida actualización 
+en los datos reportados como desconocidos (99 o 1800 -01-01), lo cual únicamente es válido, si 
+el diagnóstico se llevó a cabo a partir del 2025-11-01.  
+ 
+Los casos que en periodo previos ya tuvieron validación del diagnóstico confirmado de cáncer 
+por parte de la CAC y que en la base de datos de requeridos tiene el tipo requerido “activocac”, 
+deben ser informados con los datos históricos por tipo de cáncer en las variables del diagnóstico 
+(variable 17 a la 40).  Únicamente, se considera válida la modificación de las variablesHER2 para 
+======================================================================
+### PAGINA 4
+======================================================================
+ 
+Página 4 de 61 
+ 
+pacientes con diagnóstico de cáncer de mama, ya que obtener un resultado positivo tras un 
+nuevo estudio de inmunohistoquímica, cambia por completo el contexto del tratamiento. En caso 
+de que  la entidad, realice el reporte de información con ajustes en los datos  históricos del 
+diagnóstico, informamos que durante la auditoría se aplicaran lo ajustes a dicha información 
+retornado los valores de las variables de diagnóstico a la información histórica para el tipo de 
+cáncer, y generando datos de no calidad.   
+ 
+Los usuarios que previo al fallecimiento se encontraban en estudio por sospecha de cáncer, y 
+posterior a la muerte se obtiene la confirmación, son objeto de reporte a la CAC. Es importante 
+aclarar, que, para este tipo de casos, es imprescindible contar con la historia clínica previa en la 
+que se sustenta la sospecha del cáncer, sumado al reporte histopatológico y los soportes válidos 
+que permitan constatar el fallecimiento (historia clínica para muertes intrahospitalarias y/o 
+certificado de fallecimiento). 
+ 
+Para los pacientes fallecidos antes o durante el periodo actual, se deben reportar con los últimos 
+datos que se encuentren registrados en la historia clínica y en la variable 128 seleccionar la opción 
+4 o 10 según corresponda.  
+ 
+Los pacientes requeridos como “activoscac” que en el periodo de reporte actual describan en los 
+soportes clínicos una especificación del diagnóstico  de cáncer previamente reportado, y genere 
+un cambio de agrupador de acuerdo con la  clasificación del archivo operativo CIE-10 CAC, deben 
+ser reportados en dos líneas; la primera sin ajuste en la variable 17 y con la novedad  
+administrativa (var128 con la opción  16) y la segunda línea, con el diagnóstico actualizado en la 
+variable 17, el tratamiento que recibió en el periodo de reporte actual y la novedad 
+administrativa que corresponda en la variable 128; por ejemplo, en el periodo 202 5-01-01 un 
+caso fue reportado con el CIE -10 C919 :Leucemia linfoide, sin otra especificación, pero en los 
+soportes clínicos para el periodo actual, el profesional tratante define el linaje de la leucemia, 
+tratándose de C910:Leucemia linfoblástica aguda, por lo cual cambió de agrupador de cánceres 
+no priorizados a cánceres priorizados.  
+ 
+Para tener en cuenta en la base de datos: 
+ 
+Cada registro o fila de la base de datos es una persona y cada variable es una pregunta acerca de 
+la persona. Todas las variables de esa persona deben registrarse en esa misma fila, si tiene dos o 
+más cánceres primarios de forma simultánea o precedente en seguimiento, se debe reportar una 
+fila para cada tipo de cáncer. En las variables 42, 43 y 44 registrar la información del otro cáncer 
+primario y en la variable 128 (novedad administrativa) reportar los registros con op ción 12 
+(usuario que es notificado con dos o más cánceres en este periodo), a excepción de los casos en 
+que el paciente presente como novedad de desafiliado o fallecido, que son predominantes frente 
+a la novedad descrita. La entidad debe identificar este contexto y en la base de datos antes de 
+auditoría es responsable de verificar si las líneas del paciente fueron marcadas como duplicado, 
+======================================================================
+### PAGINA 5
+======================================================================
+ 
+Página 5 de 61 
+ 
+de lo contrario debe informar al proceso de auditoría conforme lo establece el manual de 
+auditoría.  
+ 
+La base de datos a reportar contiene 134 variables y corresponden a las definidas en el Anexo 
+Técnico de la Resolución 0247/2014 que se reportan en 168 campos, la estructura para la 
+disposición de la información se encuentra disponible en la plataforma SISCAC 4.0, así como, los 
+archivos operativos y herramientas para orientar el reporte de información.  
+ 
+Toda la información reportada en la base de datos debe ser grabada como texto en archivos 
+planos de formato ANSI, con extensión .txt y los separadores de las variables deben ser 
+tabulaciones. No debe faltar ningún campo de los definidos en la tabla del ane xo técnico de la 
+resolución 0247/2014 y ninguna variable debe venir vacía, de lo contrario, el aplicativo rechaza 
+el cargue de la información. No se debe usar ningún carácter especial en ninguno de los campos 
+(&, ñ, ú –tildes-, ü –diéresis-, # -número-, ° -grado-, ´ -apostrofe-, entre otros) ni se les debe 
+completar con espacios.  
+ 
+El formato del nombre del archivo es AAAAMMDD_CODEAPB_CANCER.txt, en el cual  
+AAAAMMDD corresponde a la fecha de reporte definida en el artículo 7 de la Resolución y 
+CODEAPB al código de seis caracteres o el código del departamento o distrito según DIVIPOLA en 
+caso de las entidades departamentales y distritales de salud, es decir, 
+20260505_CODEAPB_CANCER.txt 
+ 
+Los entes territoriales deben reportar toda la información de la población pobre no asegurada y 
+de la población asegurada, a quien el ente territorial le suministró atenciones en salud para el 
+manejo del cáncer durante el periodo de reporte.  
+ 
+La validación de los datos se debe realizar a través de la plataforma SISCAC 4.0 conforme lo 
+descrito en el manual de auditoría, por lo cual las EAPB deben consultar dicho documento para 
+cumplir con las fases del proceso de auditoría establecido. E l plazo máximo para el cargue de la 
+información es el 5 de mayo de 2026 y el plazo máximo para disponer los soportes para la 
+auditoría es el 12 de mayo de 2026. 
+ 
+IDENTIFICACIÓN GENERAL DE LA EAPB Y DEL USUARIO REPORTADO 
+ 
+A continuación, las variables relacionadas con la identificación de las personas y demografía de 
+cada registro. 
+ 
+1. Primer nombre del usuario: Escriba el primer nombre del usuario , según el registrado en 
+BDUA. Utilice letras mayúsculas. No se pueden utilizar símbolos, puntos, tildes, ni el carácter 
+numeral, ni ningún otro carácter especial. Verifique que no esté registrando los datos del primer 
+apellido en este campo, se considera un error.  
+======================================================================
+### PAGINA 6
+======================================================================
+ 
+Página 6 de 61 
+ 
+ 
+2. Segundo nombre del usuario: Escriba el segundo nombre del usuario , según el registrado en 
+BDUA. En caso de un tercer nombre, escríbalo separado por un espacio. Registre NONE, en 
+mayúscula sostenida, cuando el usuario no tiene segundo nombre (NONE  Ningún Otro Nombre 
+Escrito). No se pueden utilizar símbolos, puntos, tildes, -, ni el carácter numeral, ni ningún otro 
+carácter especial. Verifique que no esté registrando el primer nombre en este campo, se 
+considera un error. 
+ 
+3. Primer apellido del usuario: Escriba el primer apellido del usuario , según el registrado en 
+BDUA. Utilice letras mayúsculas. No se pueden utilizar símbolos, puntos, tildes, -, ni el carácter 
+numeral, ni ningún otro carácter especial. Verifique que no esté registrando el primer apellido 
+en lugar del primer nombre.  
+ 
+4. Segundo apellido del usuario: Escriba el segundo apellido del usuario  según el registrado en 
+BDUA. Registre NOAP, en mayúscula sostenida, cuando el usuario no tiene segundo apellido 
+(NOAP: Ningún Otro Apellido) 
+ 
+Aclaraciones 
+Nombres y apellidos : es responsabilidad de la entidad registrar los nombres y apellidos de 
+forma completa, tal como se encuentran en el sistema de afiliación y en el campo que 
+corresponde.  
+En la auditoría se evidencia que escriben el nombre del paciente en el campo del apellido y 
+viceversa, contexto que es incorrecto y que genera reprocesos en el seguimiento e 
+identificación de duplicados de la cohorte nacional.  
+ 
+5. Tipo de Identificación del usuario: 
+CC: Cédula ciudadanía  
+CE: Cédula de extranjería  
+CD: Carné diplomático  
+PA: Pasaporte  
+SC: Salvoconducto de permanencia  
+PT: Permiso temporal de permanencia  
+PE: Permiso Especial de Permanencia  
+RC: Registro civil  
+TI: Tarjeta de identidad  
+CN: Certificado de nacido vivo  
+AS: Adulto sin identificar (solo para el Régimen Subsidiado) 
+MS: Menor sin identificar (solo para el Régimen Subsidiado) 
+DE: Documento extranjero  
+SI: Sin identificación 
+======================================================================
+### PAGINA 7
+======================================================================
+ 
+Página 7 de 61 
+ 
+ 
+6. Número de Identificación del usuario: Número de identificación del afiliado según el tipo de 
+identificación. Para MS y AS registre el consecutivo interno del afiliado según lo dispuesto en la 
+Resolución 4622/2016.  
+ 
+7. Fecha de nacimiento: Registre la fecha de nacimiento del usuario en el formato AAAA -MM-
+DD, según lo registrado en BDUA. Verifique que el orden de los números sea AÑO -MES-DÍA 
+(AAAAMM-DD) y el separador entre estos sea “ -“(guion). La fecha de nacimiento no puede ser 
+posterior a la fecha de afiliación y debe ser anterior a la fecha de corte del reporte (2026-05-05). 
+ 
+8. Sexo: Indique el sexo de la persona reportada: 
+M: Masculino 
+F: Femenino 
+ 
+9. Ocupación: código según la Clasificación Internacional Uniforme de Ocupaciones, registre: 
+9999: No existe información 
+9998: No Aplica 
+ 
+10. Régimen de afiliación al SGSSS: 
+C: Régimen Contributivo 
+S: Régimen Subsidiado  
+P: Regímenes de excepción 
+E: Régimen especial 
+N: No asegurado 
+I: Fondo Atención en Salud para PPL 
+ 
+11. Código de la EAPB o de la entidad territorial: Cuando el usuario tenga EAPB escriba el código 
+de la empresa que registra al usuario. Cuando el usuario sea notificado por entidad territorial 
+escriba el código de departamento y seguido de tres ceros Ej: 01000 donde 01 corresponde al 
+código de departamento según DANE. 
+  
+12. Código pertenencia étnica: registre el grupo étnico del usuario: 
+1: Indígena 
+2: ROM (gitano) 
+3: Raizal del archipiélago de San Andrés y Providencia 
+4: Palenquero de San Basilio 
+5: Negro(a), mulato(a), afrocolombiano(a) o afrodescendiente 
+6: Ninguna de las anteriores 
+ 
+13. Grupo poblacional:  
+1: Indigentes 
+======================================================================
+### PAGINA 8
+======================================================================
+ 
+Página 8 de 61 
+ 
+2: Población infantil a cargo del ICBF 
+3: Madres comunitarias 
+4: Artistas, autores, compositores 
+5: Otro grupo poblacional 
+6: Recién Nacidos 
+7: Persona en situación de discapacidad 
+8: Desmovilizados 
+9: Desplazados 
+10: Población ROM 
+11: Población raizal 
+12: Población en centros psiquiátricos 
+13: Migratorio 
+14: Población en centros carcelarios 
+15: Población rural no migratoria 
+16: Afrocolombiano 
+31: Adulto mayor 
+32: Cabeza de familia 
+33: Mujer embarazada 
+34: Mujer lactante 
+35: Trabajador urbano 
+36: Trabajador rural 
+37: Víctima de violencia armada 
+38: Jóvenes vulnerables rurales 
+39: Jóvenes vulnerables urbanos 
+50: Persona en situación de discapacidad del sistema nervioso 
+51: Persona en situación de discapacidad de los ojos 
+52: Persona en situación de discapacidad de los oídos 
+53: Persona en situación de discapacidad de los demás órganos de los sentidos (olfato, tacto y 
+gusto) 
+54: Persona en situación de discapacidad de la voz y el habla 
+55: Persona en situación de discapacidad del sistema cardiorrespiratorio y las defensas 
+56: Persona en situación de discapacidad de la digestión, el metabolismo, las hormonas 
+57: Persona en situación de discapacidad del sistema genital y reproductivo 
+58: Persona en situación de discapacidad del movimiento del cuerpo, manos, brazos, piernas 
+59: Persona en situación de discapacidad de la piel 
+60: Persona en situación de discapacidad de otro tipo 
+61: No definido 
+62: Comunidad indígena 
+63: población migrante de la República Bolivariana de Venezuela 
+ 
+======================================================================
+### PAGINA 9
+======================================================================
+ 
+Página 9 de 61 
+ 
+14. Municipio de residencia: Registre el Código del municipio en donde reside el afiliado según 
+la división político-administrativa DIVIPOLA – DANE. Este código debe ser reportado en 5 dígitos, 
+en el cual los dos primeros dígitos corresponden al departamento donde se localiza el municipio. 
+Validar que no se reporte la ciudad en la que recibe las atenciones en salud, cuando es en realidad 
+reside de otro municipio. 
+ 
+15. Número telefónico del paciente (incluyendo a familiares y cuidadores): Registre sólo dos 
+números de teléfono(s) fijos y/o móviles completos para contactar al paciente y separe por guion 
+medio (-).  Si no se tiene el número telefónico del paciente (incluyendo familiares y cuidadores) 
+diligencie 0. 
+ 
+16. Fecha de afiliación a la EAPB que reporta: Fecha en la que el usuario se afilió a la EAPB en el 
+formato AAAA-MM-DD (use como separador el guion “-“).  
+ 
+Aclaraciones 
+*Para las EPS (contributivo y subsidiado), la fecha de afiliación se verifica con el resultado 
+de la fuente oficial BDUA.  
+*Para las entidades del régimen especial, excepción y entes territoriales, deben disponer 
+el soporte del certificado de afiliación. 
+*Si el paciente es reportado por un ente territorial de salud, la fecha que se debe 
+diligenciar corresponde a la fecha en la que la entidad territorial identificó que se trata  
+de una persona pobre no asegurada o la fecha en la cual se le prestó al paciente servicios 
+no incluidos en el plan de beneficios 
+*Si una entidad cambia de razón social, se debe reportar como fecha de afiliación del 
+paciente, la fecha de creación de la nueva razón social. 
+*La fecha de afiliación en EPS del régimen contributivo o subsidiado debe ser superior a 
+1995- 01-01. 
+*La fecha de afiliación a informar en esta variable corresponde a la afiliación dentro del 
+periodo, es decir, si un paciente está afiliado desde el 2018 a la entidad de manera 
+continua y sin interrupciones, esa es la fecha para reportar. Ahora bien, si el paciente 
+durante el periodo tiene afiliación con interrupciones, debe reportar la fecha de afiliación 
+inicial del periodo que actualmente lo reporta activo. 
+ 
+INFORMACION RELACIONADA A DIAGNÓSTICO, ESTADIFICACIÓN Y OBJETIVO DEL 
+TRATAMIENTO INICIAL 
+ 
+Las variables 17 a la 44 se encuentran relacionadas con el momento del diagnóstico del cáncer, 
+recuerde que cada lesión neoplásica primario se debe registrar en una línea con sus respectivos 
+datos del diagnóstico.  
+ 
+======================================================================
+### PAGINA 10
+======================================================================
+ 
+Página 10 de 61 
+ 
+17. Código CIE - 10 de la neoplasia (cáncer o tumor) maligna reportada (primario): Registré el 
+código de la enfermedad maligna que fue inicialmente diagnosticada al usuario según código CIE 
+-10, ( archivo operativo disponible en la plataforma SISCAC ). Sí el paciente tuvo inicialmente 
+diagnóstico clínico que posteriormente fue confirmado con histopatología, en esta variable debe 
+registrar el CIE-10 de la confirmación histopatológica. 
+ 
+Aclaraciones 
+* Las metástasis a otros órganos no aplican como segundo primario por lo que no deben ser 
+reportadas en filas independientes. Las metástasis que se identifican desde el diagnóstico 
+se incluyen en la estadificación del tumor en la variable 29. 
+ 
+* En la variable 17 se registra solo el tumor primario y los tumores secundarios (metástasis) 
+con primario desconocido, dispuestos en el archivo operativo CIE -10 en el agrupador 
+“tumores secundarios” eligiendo el que más se adecúe según el compromiso.  
+ 
+* No se considera válido el uso del código “C80X Tumor maligno de sitios no especificados”, 
+eliminado del archivo operativo. En caso de tener pacientes históricos con dicho diagnóstico 
+por favor verificar para que realice el ajuste del código CIE-10 
+ 
+* Pueden encontrarse en las historias clínicas diferentes CIE -10 del mismo tumor primario 
+siendo del mismo agrupador (ver archivo operativo disponible en la plataforma SISCAC ) y 
+del mismo tipo histológico, por lo cual la entidad y la IPS deben verificar si se trata de uno o 
+más primarios, y reportar según corresponda. 
+  
+* Si el paciente presenta en el mismo órgano dos primarios diferentes, se deben reportar de 
+manera independiente (cada uno en una fila); por ejemplo, cáncer de piel con lesiones 
+múltiples, o cáncer de mama un primario en cada mama.  
+ 
+* Dentro de cáncer de cuello uterino , deben ser reportadas todas las pacientes con 
+confirmación de cáncer in situ o infiltrante, a partir de la histopatología obtenida por 
+colposcopia o conización. No es válido el reporte como caso confirmado, la información 
+obtenida a partir de la citología  cérvicouterina. Para casos descritos en el reporte de 
+patología como lesiones de alto grado, es indispensable la descripción explícita del 
+componente in situ (carcinoma o adenocarcinoma in situ), para ser considerado válidos. Si 
+se van a reportar por prim era vez pacientes con diagnóstico antiguo que según anterior 
+clasificación se definen como NIC III, de igual manera es indispensable que el patólogo 
+describa el compromiso por carcinoma in situ para considerarse objeto de reporte.  En los 
+casos que el soporte de atención oncológica mencione que el diagnóstico es cáncer de cuello 
+uterino in situ se válida para la auditoria, a pesar de que el reporte de patología describa 
+NIC III.  
+ 
+* Dentro de la enfermedad de Paget, son objeto de reporte como cáncer de mama, las 
+lesiones que comprometan el tejido mamario profundo (lóbulos, lobulillos o conductos); los 
+======================================================================
+### PAGINA 11
+======================================================================
+ 
+Página 11 de 61 
+ 
+tumores que sólo comprometen la piel del pezón y la areola deben ser reportados como 
+cáncer de piel (cáncer no priorizado).  
+ 
+* Para el caso de los tumores Phyllodes (filodes), sólo son objeto de reporte aquellos que 
+tengan descripción histopatológica como Phyllodes de alto grado o maligno (por mención 
+explícita del patólogo o por la descripción de 10 o más mitosis por campo de alto poder), los 
+demás tumores serán considerados lesiones benignas, las cuales no son objeto de reporte.  
+ 
+* Los tumores del estroma gastrointestinal (GIST), son sarcomas localizados en cualquier 
+porción del sistema gastrointestinal (más comúnmente estómago), los cuales deben ser 
+reportados como tumores de tejidos blandos y tejidos conjuntivos. 
+ 
+* Los adenomas en el intestino cuando son vellosos y tienen displasia son predictivos de 
+cáncer, por lo cual es importante su notificación en el programa de detección temprana para 
+dar seguimiento a la evolución de la enfermedad. No se notifican a la CAC hasta tanto no se 
+cuente con reporte de patología in situ o infiltrante para diagnóstico de cáncer. En el manejo 
+de los adenomas se debe realizar resección y evaluar el componente in situ. (comité de 
+expertos 2023) 
+  
+* Los tumores de la unión gastroesofágica, deberán ser reportados con un CIE -10 del 
+agrupador de estómago cuando su histología corresponda a adenocarcinoma; en caso de 
+ser del tipo escamocelular, deberá ser reportado como esófago. Vale la pena aclarar, que, si 
+el tumor se ubica en el tercio medio o superior del esófago, independiente de su histología, 
+corresponde a un cáncer esofágico y no gástrico.  
+ 
+* Los tumores neuroendocrinos (TNE) grado I, II o III son objeto de reporte; el CIE -10 
+indicado para este tipo de lesiones es C759 Tumor maligno de glándula endocrina no 
+especificada, independiente del órgano de origen.  
+ 
+* Todos los astrocitomas en población pediátrica y adulta independiente del grado OMS 
+deben ser reportados (agrupador “ojo, encéfalo, y otras partes del sistema nervioso”). 
+ 
+* Las histiocitosis correspondientes al grupo M (histiocitosis primaria maligna e histiocitosis 
+secundaria maligna) y las del grupo L (histiocitosis de células de Langerhans, enfermedad de 
+Erdheim-Chester, histiocitosis de células indeterminadas y la histiocitosis mixta (células de 
+Langerhans/enfermedad de Erdheim-Chester) son objeto de reporte a la cohorte de cáncer. 
+No osbtante, no son objeto de reporte las histiocitosis netamente cutáneas.  Los CIE-10 
+dispuestos en el archivo operativo para tal fin son C9 60, C961, D760, C965 o C966, lo cual 
+será contrastado con los soportes durante la auditoría. 
+ 
+* Si la histología obtenida corresponde a un blastoma, la selección del código CIE -10 
+dependerá del órgano en él se origina (SNC, peritoneo, pulmón, mediastino, etc.)  
+ 
+======================================================================
+### PAGINA 12
+======================================================================
+ 
+Página 12 de 61 
+ 
+* Los pacientes con diagnóstico de mastocitosis objeto de reporte, son aquellos con 
+confirmación de mastocitosis sistémica (por compromiso medular o de órganos extra 
+cutáneos demostrada, a partir de la presencia de mastocitos anormales en la médula ósea 
+y clonalidad claramente definidas). No son objeto de reporte pacientes con mastocitosis 
+netamente cutánea.  
+ 
+* Todos los sarcomas de tejidos blandos, tales como rabdomiosarcomas, liposarcomas, 
+sarcomas puros, angiosarcomas  entre otros, deben ser reportados en el agrupador de 
+“tejidos blandos y tejidos conjuntivos”. Por otro lado, los sarcomas del hueso, el cartílago o 
+la articulación, corresponden al agrupador de “huesos y cartílagos articulares”. Si el paciente 
+tiene diagnóstico de sarcoma de Ewing, elegir el agrupador según corresponda a un sarcoma 
+de Ewing óseo (hueso y cartílagos articulares) o extraóseo (tejidos blandos y tejidos 
+conjuntivos).  
+ 
+* Los dermatofibrosarcomas son una excepción importante, ya que deben ser reportados 
+como tumores de piel.  
+ 
+* Si se trata de un tumor in situ según reporte histopatológico inicial, se debe elegir el CIE -
+10 correspondiente en el archivo operativo, que inicié con la letra D y el estadio (0 o in situ) 
+debe coincidir en la variable 29. 
+ 
+* Los códigos  de CIE10 fueron revisados en el periodo 2022 y se inactivaron códigos 
+relacionados con descripciones no específicas del tipo de cáncer y reclasificación de 
+linfomas, por lo cual la entidad debe revisar el archivo operativo de CIE -10 y las 
+observaciones para los diagnósticos, ya que existen códigos CIE-10 que no deben ser usados 
+en el reporte en los pacientes notificados por  primera vez a la CAC , lo cuales se deben 
+notificar con los códigos que correspondan a la enfermedad. 
+ 
+*El diagnóstico de cáncer tiroides es patológico, se confirma con el resultado de reporte de 
+biopsia postquirúrgica. El resultado de categoría Bethesda III a V NO es confirmatoria del 
+cáncer, aun cuando se describa carcinoma,  por tanto,  estos pacientes serán objeto de 
+intervención quirúrgica y biopsia postquirúrgica para confirmación diagnóstica. Para estos 
+casos, la cirugía funciona como diagnóstico y tratamiento. En caso de tener un Bethesda VI y 
+el especialista define que no habrá procedimiento quirúrgic o por razones específicas, pero 
+interpreta el caso con malignidad confirmada, será válido. 
+ 
+*No hay diagnóstico clínico en linfomas, se requiere de confirmación de inmunofenotipo 
+mediante IHQ. La biopsia básica, puede confirmar malignidad sin confirmar el subtipo 
+específico. 
+ 
+* La leucemia linfocítica crónica (LLC), según la Clasificación de Tumores Hematopoyéticos 
+y Linfoides de la OMS 2016, forma parte del grupo de los linfomas no Hodgkin de células 
+maduras o linfomas linfocíticos 
+ 
+======================================================================
+### PAGINA 13
+======================================================================
+ 
+Página 13 de 61 
+ 
+ 
+*Macroglobulinemia de Waldestrom,  C880 (24= Otros tumores malignos del tejido 
+linfático). No debe ser reportado como linfoma, tiene CIE -10 propio Trastorno 
+linfoproliferativo de fenotipo B infrecuente, que se define por la presencia de infiltración de 
+médula ósea por un linfoma linfoplasmocitoide, asociado a una paraproteinemia IgM 
+(monoclonal). 
+ 
+*Enfermedad de Castelman, C778 (14. Tumores secundarios). No debe ser reportado como 
+linfoma, es un desorden linfoproliferativo poco frecuente y de patogenia desconocida, 
+comúnmente asociado a infección por VIH y herpes; puede ser localizada (único ganglio ) o 
+diseminada. 
+ 
+* La micosis fungoide es el tipo más común de linfoma cutáneo de células T, un cáncer que 
+se origina en los linfocitos T y se manifiesta predominantemente en la piel. Pertenece al 
+agrupador 9= CAC Linfoma No Hodgkin. 
+ 
+*Las siguientes lesiones de piel no son objeto de reporte a la CAC debido a que son benignas: 
+Lesiones benignas no objeto de reporte: nevus de spitz, nevus azul, nevus recurrente, 
+queratosis seborreica, queratosis actínica, lago venoso, angioqueratomas, mel anonis de 
+vulva y pene, nevus melanocítico, lentigo simple, lentigo solar, lentigo labial y 
+dermatofibroma.  
+ 
+* Los tumores de esófago, y duodeno hacen parte del agrupador “otros órganos digestivos”. 
+ 
+*Diagnósticos diferenciales malignos que corresponden a un agrupador diferente al de  
+estómago: Linfoma no Hodgkin en estómago , tumores del estroma gastrointestinal (GIST), 
+leiomiosarcoma, t umor carcinoide de estómago (es neuroendocrino)  y tu mores 
+neuroendocrinos. 
+ 
+*En los tumores de apéndice no es objeto de reporte el a denoma/Cistadenoma mucinoso 
+(CM).  
+ 
+* En cáncer de colon y recto  se incluyen los tumores originados en toda la extensión del 
+colon (incluyendo el apéndice originado en el ciego), recto y conducto anal. 
+  
+* Los tumores del intestino delgado no hacen parte del cáncer colorrectal, sino del 
+agrupador “Otros órganos digestivos”. 
+ 
+duplicidad de registros, reportar un diagnóstico  sin tener soportes suficiente, errores en 
+la codificación y clasificación de la patología 
+ 
+ 
+ 
+ 
+ 
+======================================================================
+### PAGINA 14
+======================================================================
+ 
+Página 14 de 61 
+ 
+18. Fecha de diagnóstico del cáncer reportado: Escriba la fecha de diagnóstico en formato AAAA-
+MM-DD (con guion “-“ como separador). Si conoce sólo el año y el mes, registre el día 15. 
+ 
+Registre 1800 -01-01: Desconocido, el dato de esta variable no se encuentra descrito en los 
+soportes clínicos.  
+ 
+Aclaraciones 
+*Cuando el diagnóstico fue histopatológico la fecha de la variable 18 es igual a la fecha de la 
+variable 24; para todo paciente reportado por primera vez, se debe adjuntar el reporte de 
+histopatológico para sustentar dichas variables.   
+ 
+*Cuando el diagnóstico del cáncer fue clínico (no se realizó histopatología), registre la fecha de la 
+primera consulta en la que el especialista basado en reportes imagenológicos y/o de laboratorio, 
+concluye que se trata de un diagnóstico de cáncer. 
+ 
+*Para los casos en que se realiza un diagnóstico clínico inicial y en ésta misma fecha se indica 
+tratamiento específico, ésta fecha es la que corresponde a variables 18 y 26; si más adelante se 
+obtiene el reporte histopatológico, se registra este nuevo dato de fecha en la variable 24, es decir, 
+será posterior a la fecha de diagnóstico e indicación de tratamiento. Ejemplo: Paciente con 
+diagnóstico de síndrome linfoproliferativo (no hay  confirmación por citometría de flujo (CMF) a 
+la fecha), que, por su condi ción clínica y riesgo, el hemato -oncológo tratante indica inicio de 
+terapia sistémica, confirmando con CMF el diagnóstico C910 (Leucemia linfoide aguda) 7 días más 
+tarde.    
+ 
+*Es otro el caso, de los cánceres que sólo pueden ser confirmados por patología, como por 
+ejemplo el cáncer de tiroides o de piel, por tanto , el dato de la variable 18, es el mismo de la 
+variable 24. 
+ 
+19. Fecha de la nota de remisión o interconsulta del médico o institución general hacia la 
+institución o médico que hizo el diagnóstico: Revisar en la historia clínica la remisión más antigua 
+disponible previa al diagnóstico y que pudiese estar asociada a la enfermedad maligna actual 
+(debe ser menor o igual a la fecha de ingreso a la institución que realizó el diagnóstico, solicitada 
+en la variable 20). Escriba la fecha de esa remisión en formato AAAA-MM-DD (con guion “-” como 
+separador).  Si conoce sólo el año y el mes, registre el día 15. 
+ 
+Registre 1800 -01-01: Desconocido, el dato de esta variable no se encuentra descrito en los 
+soportes clínicos. 
+ 
+Aclaraciones 
+*Para los casos en que la sospecha de enfermedad maligna está basada en imágenes, por 
+ejemplo, TAC con evidencia de masa pulmonar sospechosa, resonancia para tumores del SNC, 
+endoscopia alta o baja para tracto gastrointestinal, mamografía para cáncer de ma ma, etc., es 
+======================================================================
+### PAGINA 15
+======================================================================
+ 
+Página 15 de 61 
+ 
+válido tomar la fecha del reporte de dicho estudio en esta variable. Es imperativo que, en estos 
+casos, se anexe el reporte correspondiente, como parte de los documentos dispuestos para la 
+auditoría. Lo anterior, también aplica ante hallazgos sospechosos a partir de estudios de 
+tamización. 
+ 
+*En los casos en que no se cuenta con la fecha exacta de remisión, reporte del estudio 
+imagenológico o de tamizaje, registre la fecha en la que fue ordenado el estudio con el que se 
+pretende confirmar la sospecha de cáncer, es decir, la fecha en que ordenan la biopsia, imagen o 
+laboratorio.  
+ 
+20. Fecha de ingreso a la institución que realizó el diagnóstico luego de la remisión o 
+interconsulta: Registre la fecha en formato AAAA-MM-DD. Si conoce sólo el año y el mes, registre 
+el día 15. 
+Registre 1800 -01-01: Desconocido, el dato de esta variable no se encuentra descrito en los 
+soportes clínicos.  
+ 
+Aclaraciones 
+*Sí el diagnóstico del cáncer fue clínico registre la fecha de la atención en la que se hace el 
+diagnóstico clínico de la lesión neoplásica. La variable 18 es igual a la variable 20 en este caso. 
+*Sí el diagnóstico del cáncer fue por histopatología registre la fecha en que la muestra de 
+patología ingresa al laboratorio que realiza el procesamiento.  
+*En los casos en que el reporte de patología no registra fecha de ingreso de la muestra al 
+laboratorio, registre la fecha en la que fue ordenado el estudio con el que se pretende confirmar 
+la sospecha de cáncer, es decir, la fecha en que ordenan la biopsia, imagen o laboratorio, lo cual 
+debe de estar soportado con la nota médica donde se constate dicha solicitud. 
+*  Si la lesión del cáncer se confirma con el reporte de análisis de la patología, se debe registrar la 
+fecha en que ingreso la muestra de patología al laboratorio que lo proceso, así haya requerido 
+posteriormente una inmunohistoquímica.  
+*Igualmente, si la lesión del cáncer no se confirma con el reporte de análisis de la patología, pero 
+luego se confirma en la inmunohistoquímica, se toma la misma fecha en que ingreso la muestra 
+al laboratorio, independiente del análisis realizado. 
+ 
+21. Tipo de estudio con el que se realizó el diagnóstico de cáncer: tipo de prueba registre:  
+ 
+5: Inmunohistoquímica 
+6: Citometría de flujo 
+7: Clínica exclusivamente (incluye estudios imagenológicos y/o de laboratorio en aquellos casos 
+clínicamente justificados en donde fue imposible tomar muestra de estudio histopatológico) 
+8: Otro 
+9: Genética 
+10: Patología básica 
+99: Desconocido, el dato de esta variable no se encuentra descrito en los soportes clínicos.  
+======================================================================
+### PAGINA 16
+======================================================================
+ 
+Página 16 de 61 
+ 
+ 
+Aclaraciones 
+* Para los pacientes anteriores (antiguos) y que fueron reportados antes del 2020, las opciones 
+de respuesta 1, 2, 3 y 4 son válida s, ya que hacen parte del histórico.  Actualmente, en el 
+instructivo estas opcion es no se encuentra n y no son válidas para pacientes reportados por 
+primera vez a la CAC (nuevos). 
+* Las opciones de respuesta 1, 2, 3 y 4 se eliminaron y quedan incluidas en la opción 10, sólo están 
+habilitadas en usuarios prevalentes (reportados antes del 2020) como parte de dato histórico.  
+*Registre el primer estudio que permitió confirmar el cáncer.  
+ 
+Para pacientes reportados por primera ve z la CAC con diagnóstico de cáncer: seleccionar la 
+opción que corresponda:  
+5: Inmunohistoquímica 
+6: Citometría de flujo  
+7: Clínica exclusivamente (incluye estudios imagenológicos y/o de laboratorio en aquellos casos 
+clínicamente justificados en donde fue imposible tomar muestra de estudio histopatológico)  
+8: Otro  
+9: Genética  
+10: Patología básica 
+ 
+22. Motivo por el cual el usuario no tuvo diagnóstico por histopatología (aplica para registros 
+con respuesta igual a 7 en la variable anterior): 
+ 
+1: Clínica, usuario con coagulopatía 
+2: Clínica, debido a localización del tumor 
+3: Clínica, debido al estado funcional del usuario (deterioro) 
+4: Negativa del usuario o su acudiente para realizar el estudio histopatológico, con 
+documentación de soporte 
+5: Administrativa 
+6: Clínica por reporte de imágenes o laboratorios.  
+98: Tiene confirmación por histopatología. 
+99: Desconocido, el dato de esta variable no se encuentra descrito en los soportes clínicos. 
+ 
+23. Fecha de recolección de muestra para estudio histopatológico de diagnóstico: Registre la 
+fecha en el formato AAAA-MM-DD. Si conoce sólo el año y el mes, registre el día 15. 
+Registre 1800 -01-01: Desconocido, el dato de esta variable no se encuentra descrito en los 
+soportes clínicos.  
+Registre 1845-01-01: No se realizó estudio histopatológico (en la variable 21 registro la opción 
+7). 
+ 
+ 
+======================================================================
+### PAGINA 17
+======================================================================
+ 
+Página 17 de 61 
+ 
+Aclaraciones 
+*Para los casos en los que la muestra con la que se confirma el diagnóstico es producto de una 
+cirugía, reporte en esta variable la fecha de la cirugía. (Ejemplo: cáncer de tiroides, piel, entre 
+otros). 
+ 
+*Los soportes válidos para esta variable son la nota quirúrgica o de procedimiento, o el reporte 
+de patología que incluya la fecha de recolección de la muestra, no es válida la fecha de ingreso 
+de la muestra al laboratorio para su procesamiento.  
+ 
+24. Fecha de primero o único informe histopatológico válido de diagnóstico: Registre la fecha 
+en el formato AAAA -MM-DD. (Registre la fecha de la primera prueba que confirmó diagnóstico 
+de cáncer e inició un manejo, así haya requerido pruebas adicionales posteriormente para el 
+diagnóstico definitivo).  Si conoce sólo el año y el mes, registre el día 15. 
+ 
+Registre 1800 -01-01: Desconocido, el dato de esta variable no se encuentra descrito en los 
+soportes clínicos.  
+Registre 1845-01-01: No se realizó estudio histopatológico (en la variable 21 registro la opción 
+7). 
+ 
+Aclaraciones 
+*En el cargue de soportes es obligatorio adjuntar el reporte de l resultado del análisis de  la 
+patología para dar respuesta a esta variable.  
+ 
+25. Código válido de habilitación de la IPS donde se realiza la confirmación diagnóstica: Registre 
+el código de habilitación (disponible en la página web REPS – código de 12 dígitos incluido el cero 
+inicial) de la IPS que proceso la muestra de patología en los casos en que el diagnóstico fue 
+histopatológico o registre el código de la IPS donde se hizo el diagnóstico clínico. Verifique que 
+el código reportado corresponde a una IPS con habilitación para procesam iento de muestra de 
+patología o el servicio especializado que hace el diagnóstico clínico. 
+ 
+96: Diagnóstico fuera del país. 
+99: Desconocido, el dato de esta variable no se encuentra descrito en los soportes clínicos. 
+ 
+Aclaraciones 
+*Para diagnósticos histopatológicos llevados a cabo en el periodo, la IPS reportada debe estar 
+habilitada en REPS para dicho servicio, de lo contrario, el auditor calificará como DOND. Este dato 
+se extrae del reporte de patología original, el cual debe contener la sede responsable. 
+*No es válido usar el código de la IPS de seguimiento o de tratamiento en esta variable.   
+ 
+ 
+ 
+======================================================================
+### PAGINA 18
+======================================================================
+ 
+Página 18 de 61 
+ 
+26. Fecha de primera consulta con médico tratante de la enfermedad maligna  (médico 
+especialista que define la primera conducta terapéutica -terapia sistémica, cirugía, radioterapia 
+o cuidados paliativos - Manejo expectante): Registre la fecha en el formato AAAA -MM-DD. Si 
+conoce sólo el año y el mes, registre el día 15. 
+ 
+Registre 1800 -01-01: Desconocido, el dato de esta variable no se encuentra descrito en los 
+soportes clínicos.  
+ 
+Aclaraciones 
+*Para los usuarios con diagnóstico de cáncer histopatológico a partir del 1 de noviembre de 2025 
+y que no alcanzaron a tener la consulta en donde se define la primera conducta terapéutica, 
+reportar en esta variable la opción 1800-01-01 y en la variable 128 la opción de novedad 2, 10 o 
+13 según corresponda.  
+* Para los pacientes que  tuvieron en el periodo el procedimiento quirúrgico que hace las veces 
+de diagnóstico y tratamiento, es válido registrar la fecha de la realización del procedimiento en 
+las siguientes variables: VAR23. Fecha de recolección de muestra para estudio histopatológico de 
+diagnóstico, VAR26. Fecha de primera consulta con médico tratante de la enfermedad maligna, y 
+VAR76. Fecha de realización de la primera cirugía en este periodo de reporte. Por ejemplo, ocurre 
+con frecuencia en cáncer de piel y tiroides.  
+ 
+27. Histología del tumor en muestra de biopsia o quirúrgica: Registre el número que 
+corresponde al subtipo histológico de la biopsia diagnóstica del cáncer (como primera opción), si 
+no hay información en ese reporte use la quirúrgica: 
+1: Adenocarcinoma, con o sin otra especificación 
+2: Carcinoma escamocelular (epidermoide), con o sin otra especificación 
+3: Carcinoma de células basales (basocelular) 
+4: Carcinoma, con o sin otra especificación diferentes a las anteriores 
+5: Oligodendroglioma, con o sin otra especificación 
+6: Astrocitoma, con o sin otra especificación 
+7: Ependimoma, con o sin otra especificación 
+8: Neuroblastoma, con o sin otra especificación 
+9: Meduloblastoma, con o sin otra especificación 
+10: Hepatoblastoma, con o sin otra especificación 
+11: Rabdomiosarcoma, con o sin otra especificación 
+12: Leiomiosarcoma, con o sin otra especificación 
+13: Osteosarcoma, con o sin otra especificación 
+14: Fibrosarcoma, con o sin otra especificación 
+15: Angiosarcoma, con o sin otra especificación 
+16: Condrosarcoma, con o sin otra especificación 
+17: Otros sarcomas, con o sin otra especificación 
+18: Pancreatoblastoma, con o sin otra especificación 
+======================================================================
+### PAGINA 19
+======================================================================
+ 
+Página 19 de 61 
+ 
+19: Blastoma pleuropulmonar, con o sin otra especificación 
+20: Otros tipos histológicos no mencionados 
+21= Célula pequeña (cáncer de pulmón)  
+23: Melanoma 
+24: Carcinoma papilar de tiroides 
+98: No se realizó estudio histopatológico (en la variable 21 registró la opción 7). 
+99: Desconocido, el dato de esta variable no se encuentra descrito en los soportes clínicos. 
+ 
+Aclaraciones 
+*Para los casos con subtipo histológico escamocelular (opción 2), este no sólo está reservado para 
+el cáncer de piel, sino para todos los tumores reportados con esta histología (ejemplo: cérvix, 
+pulmón, canal anal, etc.) 
+*En los pacientes incidentes la opción 99 de esta variable será calificada como un dato no 
+gestionado. 
+*En el instructivo de reporte 2026, se incluye la opción 21: célula pequeña ( únicamente valida 
+para cáncer de pulmón).  
+ 
+28. Grado de diferenciación del tumor sólido maligno según la biopsia o informe de primera 
+cirugía: Apunte el número que corresponde al grado de diferenciación de la biopsia diagnóstica 
+del cáncer (como primera opción), si no hay información en ese informe, use la quirúrgica.  
+ 
+1: Bien diferenciado (grado 1)  
+2: Moderadamente diferenciado (grado 2)  
+3: Mal diferenciado (grado 3)  
+4: Anaplásico o indiferenciado (grado 4)  
+94: Es un cáncer sólido cuyo reporte de patología no incluye la descripción de la diferenciación 
+celular. (ejemplo: cáncer de tiroides, carcinoma basocelular, tumores in situ, melanoma, 
+próstata, entre otros).  
+95: No es sólido (cáncer hematolinfáticos)  
+98: No se realizó estudio histopatológico (en la variable 21 registró la opción 7). 
+99: No hay información en la historia clínica  
+ 
+Aclaraciones 
+*Recuerde que la puntuación de la escala de Nottingham da un resultado en grado 1, 2 o 3, el 
+cual puede registrar en esta variable. 
+*La opción 99 está reservada para los cánceres que sí deben tener grado de diferenciación, pero 
+no está descrito en los soportes. 
+*En los casos como cáncer de próstata con patología que no describa grado de diferenciación, 
+reportarlos en opción 94, no realizar homologaciones a partir de la descripción del Gleason. 
+*La opción 99 sólo es válida para diagnóstico antes de 2015-01-01, se aclara que, si el diagnóstico 
+fue previo a la fecha mencionada, pero se tiene el dato solicitado entonces se debe reportar. 
+======================================================================
+### PAGINA 20
+======================================================================
+ 
+Página 20 de 61 
+ 
+ 
+29. Si es tumor sólido, cuál fue la primera estadificación basada en TNM, FIGO, u otras 
+compatibles con esta numeración según tumor: 
+ 
+CÁNCER DE MAMA Y CÁNCER GÁSTRICO 
+0: estadio clínico (ec) 0 (tumor in situ) 
+2: ec IA o 1A 
+5: ec IB o 1b 
+11: ec IIA o 2a 
+14: ec IIB 
+17: ec IIIA o 3a 
+18: ec IIIB o 3b 
+19: ec IIIC o 3c 
+20: ec IV o 4 
+ 
+CANCER DE PRÓSTATA 
+0: estadio clínico (ec) o (tumor in situ) 
+1: ec I o 1 
+11: ec IIA o 2a 
+14: ec IIB 
+15: ec IIC o 2c 
+17: ec IIIA o 3a 
+18: ec IIIB o 3b 
+19: ec IIIC o 3c 
+21: ec IVA o 4a 
+22: ec IVB o 4b 
+ 
+CANCER DE PULMÓN 
+8ª Edición TNM 
+0: estadio clínico (ec) o (tumor in situ) 
+3: ec IA1  
+4: ec IA2 
+36: ec IA3 
+11: ec IIA o 2a 
+14: ec IIB o 2b 
+17: ec IIIA o 3a 
+18: ec IIIB o 3b 
+19: ec IIIC o 3c 
+21: ec IVA o 4a 
+22: ec IVB o 4b 
+ 
+======================================================================
+### PAGINA 21
+======================================================================
+ 
+Página 21 de 61 
+ 
+MELANOMA 
+0: estadio clínico (ec) o (tumor in situ) 
+2: ec IA o 1A 
+5: ec IB o 1b 
+11: ec IIA o 2a 
+14: ec IIB o 2b 
+15: ec IIC o 2c 
+17: ec IIIA o 3a 
+18: ec IIIB o 3b 
+19: ec IIIC o 3c 
+29: ec IIID o 3d 
+20: ec IV o 4 
+ 
+CÁNCER DE COLON Y RECTO 
+0: estadio clínico (ec) o (tumor in situ) 
+1: ec I o 1 
+11: ec IIA o 2a 
+14: ec IIB o 2b  
+15: ec IIC o 2c 
+17: ec IIIA o 3a 
+18: ec IIIB o 3b 
+19: ec IIIC o 3c 
+21: ec IVA o 4a 
+22: ec IVB o 4b 
+23: ec IVC o 4c 
+ 
+CÁNCER ANAL (Agrupador Colon y recto) 
+8ª Edición TNM 
+0: estadio clínico (ec) o (tumor in situ) 
+1: ec I o 1 
+11: ec IIA o 2a 
+14: ec IIB o 2b 
+17: ec IIIA o 3a 
+18: ec IIIB o 3b 
+19: ec IIIC o 3c 
+20: ec IV o 4 
+ 
+CÁNCER DE CÉRVIX (FIGO) 
+0: estadio clínico (ec) o (tumor in situ) 
+1: ec I o 1 
+2: ec IA o 1A  
+======================================================================
+### PAGINA 22
+======================================================================
+ 
+Página 22 de 61 
+ 
+3: ec IA1  
+4: ec IA2 
+5: ec IB o 1b 
+6: ec IB1 
+7: ec IB2 
+30: ec IB3 
+10: ec II o 2 
+11: ec IIA o 2a 
+12: ec IIA1 
+13: ec IIA2 
+14: ec IIB o 2b 
+16: ec III o 3 
+17: ec IIIA o 3a 
+18: ec IIIB o 3b 
+19: ec IIIC o 3c 
+27: ec IIIC1 
+28: ec IIIC2  
+21: ec IVA o 4a 
+22: ec IVB o 4b 
+OTRAS OPCIONES  
+8: ec IC o 1c 
+9: ec IS o 1s 
+24: ec 4S (para neuroblastoma) 
+25: ec V o 5 
+31: ec IC1 
+32: ec IC2 
+33: ec IC3 
+34: ec IIIA1 
+35: ec IIIA2 
+ 
+98: No Aplica (Es cáncer de piel basocelular, es cáncer hematológico o es cáncer en SNC, excepto 
+neuroblastoma). 
+99: Desconocido, el dato de esta variable no se encuentra descrito en los soportes clínicos. 
+ 
+Aclaraciones 
+*En caso de más de una estadificación (clínica, patológica, etc.), registre aquella que fue usada 
+para iniciar el tratamiento o la primera registrada en la historia clínica al completar los exámenes 
+de extensión. Escoja el número que representa la estadificación clínica. 
+ 
+*Por otra parte, se presentan las opciones de estadificación por los agrupadores de cánceres 
+priorizados; sin embargo, en los casos que esté reportando algún tipo de cáncer no priorizado 
+======================================================================
+### PAGINA 23
+======================================================================
+ 
+Página 23 de 61 
+ 
+puede seleccionar la opción de respuesta que tenga registrada en el soporte clínico, sin tener 
+presente el agrupador acá mencionado. 
+ 
+*Capturar la información descrita en la historia clínica en los casos en que la estadificación de la 
+clasificación internacional no corresponde al agrupador mencionado.  
+  
+*Para los usuarios con diagnóstico de cáncer histopatológico a partir del 1 de noviembre de 2025 
+y que no alcanzaron a tener la consulta en donde se estadifica el tumor, reportar en esta variable 
+la opción 99 y en la variable 128 la novedad 2, 10 ó 13 según corresponda. 
+ 
+*Las opciones 34 y 35 como parte de la clasificación FIGO para cáncer de ovario, no son válidos 
+en cérvix. 
+ 
+*La opción 99 en incidentes, será considerado gestión deficiente del dato 
+ 
+*Si en variable 17 se reportó un CIE-10 que inicia por letra D, es decir, cáncer in situ, el estadio a 
+reportar en variable 29 debe ser coherente, es decir, opción 0 : estadio clínico (ec) o (tumor in 
+situ). 
+ 
+*En los casos que el especialista tratante  para cáncer de próstata no consigne explícitamente el 
+estadio TNM, y en el detalle  de la historia clínica se encuentren documentados los valores de 
+TNM, PSA y puntaje de Gleason, de acuerdo con la disponibilidad de la auditoría se realiza la 
+captura del dato basándose en los criterios establecidos en la 8ª edición del AJCC. Esta situación 
+genera datos de no calidad, por lo cual es la EAPB y la red de prestadores los responsables de 
+garantizar el registro completo de los datos. 
+ 
+30. Fecha en que se realizó esta estadificación: Registre la fecha en el formato AAAA-MM-DD. Si 
+conoce sólo el año y el mes, registre el día 15. 
+ 
+Registre 1800 -01-01: Desconocido, el dato de esta variable no se encuentra descrito en los 
+soportes clínicos. 
+Registre 1845-01-01: No Aplica (Es cáncer de piel basocelular, es cáncer hematológico o es cáncer 
+en SNC, excepto neuroblastoma) 
+ 
+Aclaraciones 
+* Para los usuarios con diagnóstico de cáncer histopatológico a partir del 1 de noviembre de 2025 
+y que no alcanzaron a tener la consulta en donde se estadifica el tumor, reportar en esta variable 
+la opción 1800-01-01 y en la variable 128 la novedad 2, 10 o 13. 
+ 
+31. Para cáncer de mama, ¿se le realizó a este usuario la prueba HER2 (llamado también 
+receptor 2 del factor de crecimiento epidérmico humano, también llamado erb -B2) antes del 
+inicio del tratamiento?: Registre 
+1: Sí se le realizó 
+======================================================================
+### PAGINA 24
+======================================================================
+ 
+Página 24 de 61 
+ 
+2: No se le realizó  
+97: No Aplica porque es cáncer de mama in situ 
+98: No Aplica (no es cáncer de mama)  
+99: Desconocido, el dato de esta variable no se encuentra descrito en los soportes clínicos 
+ 
+Aclaraciones 
+*Si se realizó el examen en pacientes con cáncer de mama in situ, capturar la información.  
+*Se aclara que, si el HER2 efectivamente se realizó, pero éste fue posterior al inicio del 
+tratamiento, la opción correcta en variable 31 es 2: No se realizó; sin embargo, en variables 32 y 
+33 se debe reportar la fecha y resultado de la prueba HER2 respectivamente.    
+ 
+32. Para cáncer de mama, fecha de realización de la única o última prueba HER2: Registre la 
+fecha en el formato AAAA-MM-DD. Si conoce sólo el año y el mes, registre el día 15. 
+ 
+Registre 1800 -01-01: Desconocido, el dato de esta variable no se encuentra descrito en los 
+soportes clínicos 
+Registre 1840-01-01: No Aplica porque es cáncer de mama in situ. 
+Registre 1845-01-01: No Aplica (no es cáncer de mama) o marcó la variable 31 con la opción 2. 
+ 
+33. Para cáncer de mama, resultado de la única o última prueba HER2: Registre:  
+1: +++ (positivo) 
+2: ++ (equivoco o indeterminado) 
+3: + (negativo) 
+4: cero ó (negativo) 
+97: No Aplica porque es cáncer de mama in situ. 
+98: No Aplica (no es cáncer de mama) o marcó la variable 31 con la opción 2. 
+99: Desconocido, el dato de esta variable no se encuentra descrito en los soportes clínicos. 
+ 
+Aclaraciones 
+*Para pacientes prevalentes (anteriores, reportados en periodos previos), que producto de una 
+nueva IHQ por ejemplo postquirúrgica, se obtenga un resultado diferente del HER2 (en especial 
+si reporta positivo), el dato debe ser ajustado, ya que el enfoque del tratamiento puede variar.    
+ 
+34. Para cáncer colorrectal, estadificación de Dukes Registre: 
+1: A 
+2: B 
+3: C 
+4: D 
+98: No Aplica (no es cáncer colorrectal) 
+99: Es cáncer colorrectal pero no hay información en la historia clínica acerca de esta 
+estadificación  
+======================================================================
+### PAGINA 25
+======================================================================
+ 
+Página 25 de 61 
+ 
+ 
+35. Fecha en que se realizó la estadificación de Dukes: Registre la fecha en el formato AAAA -
+MM-DD. Si conoce sólo el año y el mes, registre el día 15. 
+ 
+Registre 1845-01-01: No Aplica (no es cáncer colorrectal o respuesta 99 en la variable anterior) 
+ 
+36. Estadificación clínica en linfoma no Hodgkin, linfoma Hodgkin adulto y pediátrico (Ann 
+Arbor -Lugano) y mieloma múltiple. Registre: 
+1: Estadio I 
+2: Estadio II 
+3: Estadio III 
+4: Estadio IV 
+5: Estadio IA 
+6: Estadio IB 
+7: Estadio IIA 
+8: Estadio IIB 
+9: Estadio IIIA 
+10: Estadio IIIB 
+11: Estadio IVA 
+12: Estadio IVB 
+13: Extranodal cualquier estadio 
+14: Primario SNC 
+15: Primario Mediastinal 
+16: Primario de otros órganos 
+98: No Aplica (porque es un tumor diferente a los enunciados)  
+99: Desconocido, el dato de esta variable no se encuentra descrito en los soportes clínicos. 
+ 
+Aclaraciones 
+*Las opciones de respuesta con sufijos A y B contemplan la presencia o no de 
+sintomatología sistémica, así mismo opciones de respuesta para compromiso extranodal 
+de cualquier estadio, primarios en SNC, mediastinal o de otros órganos. Si sólo cuenta en 
+los soportes con el estadio sin el sufijo, reportar la opción correspondiente de la 1 a la 4. 
+ 
+*Si de identifica un estadiaje en la historia clínica que incluya una X, indica que se trata 
+de un linfoma con formación de masa Bulky (mayor a 10cm); elegir el estadio que aplique 
+haciendo caso omiso al sufijo X.  
+ 
+*Para los usuarios con diagnóstico de cáncer a p artir del 1 de noviembre de 202 5 y que 
+no alcanzaron a tener la consulta en donde se estadifica el tumor, reportar en esta 
+variable la opción 99 y en la variable 128 la novedad 2, 10 o 13. 
+======================================================================
+### PAGINA 26
+======================================================================
+ 
+Página 26 de 61 
+ 
+ 
+*Se incluye mieloma múltiple (MM) en el enunciado de la variable, para el reporte del 
+estadiaje definido. 
+ 
+37. Para cáncer de próstata, valor de clasificación de la escala Gleason en el momento del 
+diagnóstico: Registre la opción que corresponde a la clasificación Gleason.   
+11: Gleason ≤ 6: ≤ 3+3            
+12: Gleason 7: 3+4 
+13: Gleason 7: 4+3 
+14: Gleason 8: 4+4 o 3+5 o 5+3 
+15: Gleason 9 o 10: 4+5 o 5+4 o 5+5 
+97: Es cáncer de próstata, pero no hay información acerca de esta estadificación porque el 
+diagnóstico fue clínico.  
+98: No es cáncer de próstata. 
+99: Es cáncer de próstata, pero no hay información en la historia clínica acerca de esta 
+clasificación a pesar de que fue diagnóstico histopatológico.  
+ 
+Aclaraciones 
+*En los casos nuevos para el reporte la opción 99 se considera un dato no gestionado.  
+*Las opciones de la 1 a la 10 no son válidas para pacientes reportados por primera vez a la CAC, 
+independiente del año de diagnóstico; sólo se validan como parte del histórico a pacientes 
+reportados antes del 2021. 
+ 
+38. Clasificación del riesgo leucemias, linfomas, mieloma múltiple (para toda la población) y 
+sólidos pediátricos: 
+ 
+Clasificación de riesgo en linfoma no Hodgkin 
+Registre: 
+1: Bajo Riesgo  
+2: Riesgo intermedio bajo 
+3: Intermedio  
+4: Riesgo intermedio alto  
+5: Riesgo alto 
+ 
+Clasificación de riesgo en linfoma de Hodgkin 
+Registre: 
+1: Bajo Riesgo  
+5: Riesgo alto 
+ 
+Clasificación del riesgo en adultos (LLA, LMA y MM) 
+Registre: 
+======================================================================
+### PAGINA 27
+======================================================================
+ 
+Página 27 de 61 
+ 
+1: Riesgo estándar, bajo  
+3: Riesgo intermedio  
+5: Riesgo alto  
+ 
+Clasificación del riesgo en Pediatría (LLA y LMA) 
+Registre: 
+1: Riesgo estándar, favorable, bajo riesgo. 
+3: Riesgo intermedio 
+5: Riesgo alto, desfavorable  
+ 
+98: No Aplica (no es leucemia, ni linfoma) 
+99: Desconocido, el dato de esta variable no se encuentra descrito en los soportes clínicos. 
+ 
+Aclaraciones 
+*Se mantienen las opciones de respuesta 1 a la 5, pero clasificadas por tipo de cáncer (leucemias 
+y linfomas), basados en los sistemas de clasificación disponibles para cada uno de ellos. 
+ 
+*Las opciones 6 a la 13 sólo son válidos para pacientes reportados antes del 2021, haciendo parte 
+del histórico. 
+ 
+*Para los usuarios con diagnóstico de cáncer a p artir del 1 de noviembre de 202 5 y que no 
+alcanzaron a tener la consulta en donde se realiza la clasificación del riesgo, reportar en esta 
+variable la opción 99 y en la variable 128 la novedad 2, 10 o 13. 
+ 
+*Para los pacientes con linfoma de Hodgkin (LH), la homologación del estadio debe estar basada 
+en los diferentes sistemas de clasificación (ejemplo: Hasenclever), en cuyo caso, si el estadio 
+(variable 36) es I o II, el riesgo (variable 38) debe ser 1 : Bajo riesgo y si el estadio es III o IV, la 
+opción correcta es 2: Riesgo alto. 
+ 
+*Se incluye mieloma múltiple (MM) en el enunciado de la variable, se debe reportar si el riesgo 
+definido es bajo, intermedio o alto (1, 3 o 5). 
+ 
+*  Los siguientes cánceres no tienen clasificación de riesgo, por lo cual deben reportar la opción 
+98 no aplica.     
+ 
+ 
+39. Fecha de clasificación de riesgo: Registre la fecha en el formato AAAA -MM-DD. Si conoce 
+sólo el año y el mes, registre el día 15. 
+ 
+Registre 1800 -01-01: Desconocido, el dato de esta variable no se encuentra descrito en los 
+soportes clínicos. 
+Registre 1845-01-01: No Aplica (no es leucemia, ni linfoma) 
+======================================================================
+### PAGINA 28
+======================================================================
+ 
+Página 28 de 61 
+ 
+ 
+Aclaraciones 
+*Para los usuarios con diagnóstico de cáncer a p artir del 1 de noviembre de 202 5 y que no 
+alcanzaron a tener la consulta en donde se realiza la clasificación del riesgo, reportar en esta 
+variable la opción 1800-01-01 y en la variable 128 la novedad 2, 10 ó 13.  
+ 
+40. Objetivo (o intención) del tratamiento médico inicial (al diagnóstico) Registre: 
+1: Curación 
+2: Paliación (intención paliativa) exclusivamente. 
+3: Manejo expectante una vez se ha realizado el diagnóstico.  
+99: Desconocido, el dato de esta variable no se encuentra descrito en los soportes clínicos. 
+ 
+Aclaraciones 
+*La información de la variable corresponde a la decisión al momento del diagnóstico, esta no es 
+modificable en el tiempo. 
+ 
+41. intervención médica durante el periodo de reporte, registre:  
+ 
+1: Observación previa a tratamiento (manejo expectante o casos en los que ya tienen orden 
+médica de tratamiento, pero no alcanzó a ser administrado, dado que está cercano a la fecha del 
+corte) 
+2: Ofrecer tratamiento curativo (quimioterapia, hormonoterapia, radioterapia, cirugía, terapia 
+biológica) o paliativo dirigido al cáncer inicial o por recaída  
+3: Observación o seguimiento oncológico luego de tratamiento inicial (incluye tratamientos 
+médicos para enfermedad general -no oncológica- y métodos diagnósticos de seguimiento) 
+4: 1 y 2 únicamente 
+5: 2 y 3 únicamente 
+6: 1, 2 y 3 
+99: No hay intervención en el periodo (abandono de terapia, alta oncológica ó alta voluntaria) 
+ 
+ANTECEDENTES AL DIAGNÓSTICO DEL CÁNCER REPORTADO 
+ 
+42. Tiene antecedente o padece de otro cáncer primario (es decir, tiene o tuvo otro tumor 
+maligno diferente al que está notificando): Registre: 
+1: Sí  
+2: No 
+99: Desconocido, el dato de esta variable no se encuentra descrito en los soportes clínicos. 
+ 
+ 
+ 
+ 
+======================================================================
+### PAGINA 29
+======================================================================
+ 
+Página 29 de 61 
+ 
+Aclaraciones 
+*Si el paciente tiene 2 cánceres primarios del mismo agrupador, se debe capturar la información 
+del segundo primario en variables 42 a 44 (ejemplo: mama bilateral, igual información en 
+variables 17 y 44).  
+ 
+*El segundo primario que se reporte, debe estar soportado en la historia clínica. 
+ 
+*En caso de 2 cánceres primarios, tratándose de un caso nuevo, necesariamente debe estar 
+reportado en 2 líneas, cada uno con el primario que corresponda en variable 17, y en la variable 
+44, reportar el segundo primario. 
+ 
+*En los casos en que el paciente tiene 3 cáncer primarios, en el antecedente se debe reportar el 
+más cercano a la fecha de corte.  
+ 
+*La opción 99 aplica para historias clínicas que no permitan descartar o confirmar un segundo 
+tipo de cáncer, o que lo mencionen, pero sus datos son insuficientes. 
+ 
+43. Fecha de diagnóstico del otro cáncer primario: Fecha en que se diagnosticó el otro cáncer 
+primario que afecta al usuario en el formato AAAA -MM-DD. Si conoce sólo el año y el mes, 
+registre el día 15. 
+ 
+Registre 1800 -01-01: Desconocido, el dato de esta variable no se encuentra descrito en los 
+soportes clínicos. 
+Registre 1845-01-01: No Aplica (no ha tenido otro cáncer primario) 
+ 
+44. Tipo (CIE -10) de ese cáncer antecedente o concurrente: Registre la enfermedad maligna 
+antecedente o concurrente. Tenga en cuenta que antes de definir, por ejemplo, un linfoma, el 
+usuario pudo tener un diagnóstico de cáncer a estudio o tumor de células pequeñas, redondas y 
+azules, debe notificarse el linfoma. Registre el código de la enfermedad maligna diagnosticada al 
+usuario según código CIE -10 (archivo operativo disponible en la plataforma SISCAC). 
+ 
+99: No Aplica (no hay antecedente o concurrencia de otro cáncer primario) 
+ 
+A continuación, las variables relacionadas con la estrategia terapéutica  que recibió el paciente 
+entre el 2 de enero de 2025 al 1 enero de 2026. Tener en cuenta que los pacientes que recibieron 
+atención por entidades el régimen especial y EPS, cada entidad reporta el tratamiento que 
+administró. Cuando el paciente presente dos o más primarios de cáncer, cada tratamiento se 
+registra para el tipo de cáncer que corresponda, por ejemplo, histerectomía para cáncer de cérvix 
+y esquema AC en cáncer de mama) 
+ 
+ 
+ 
+======================================================================
+### PAGINA 30
+======================================================================
+ 
+Página 30 de 61 
+ 
+INFORMACIÓN ESPECÍFICA DE TERAPIA SISTÉMICA E INTRATECAL EN EL PERIODO DE REPORTE 
+ACTUAL 
+ 
+45. ¿Recibió el usuario quimioterapia u otra terapia sistémica (incluye quimioterapia, 
+hormonoterapia, inmunoterapia y terapia dirigida) dentro del periodo de reporte?  
+Registre: 
+1: Sí recibió 
+98: No Aplica (no está indicada esta terapia, verifique que en las variables 46 a 73 se registra No 
+Aplica) 
+ 
+Aclaraciones 
+*Cuando el paciente tiene dos o más cánceres primarios registre la terapia sistémica que está 
+recibiendo el paciente como tratamiento para el cáncer reportado en la variable 17 o la 
+metástasis de este. 
+*Si el paciente tiene más de un cáncer primario, asegurarse de reportar la terapia que 
+corresponde a cada una de las líneas del tipo de cáncer. 
+*Sólo aplican tratamientos suministrados dentro del periodo de reporte , por lo cual los 
+tratamientos orales deben estar soportados en una historia clínica de control y seguimiento, o en 
+una fórmula de dispensación.  
+*No aplican tratamientos oncológicos propuestos, pero no administrados. 
+ 
+46. ¿Cuántas fases de quimioterapia recibió el usuario en este periodo de reporte? (aplica para 
+hematolinfáticos con los siguientes códigos de clasificación diagnóstica CIE -10; C835 Linfoma 
+no Hodgkin linfoblástico (difuso), C910 Leucemia linfoblástica aguda, C920 Leucemia mieloide 
+aguda, C924 Leucemia promielocÌtica aguda y C925 Leucemia mielomonocítica aguda): Escriba 
+el número de fases de quimioterapia propuestas para este periodo. 
+ 
+0: Es cáncer hematolinfático con los siguientes códigos de clasificación diagnóstica CIE 10  C835, 
+C910, C920, C924 y C925) y en la variable 45 respondió la opción 98 
+98: No Aplica (es sólido o es cáncer diferente a los enunciados en las fases) 
+ 
+46.1. El usuario recibió en este periodo la fase de quimioterapia denominada Prefase o 
+Citorreducción inicial (aplica solo para leucemia linfoide aguda y linfoma linfoblástico, puede 
+haber recibido más de una fase): Registre: 
+1: Sí recibió  
+2: No recibió (aplica únicamente para los CIE 10 C835, C910, C920, C924 y C925) 
+97: No Aplica (no es leucemia linfoide o mieloide aguda ni linfoma linfoblástico)  
+ 
+46.2. El usuario recibió en este periodo la fase de quimioterapia denominada Inducción (aplica 
+solo para leucemia linfoide o mieloide aguda y linfoma linfoblástico, puede haber recibido más 
+de una fase): Registre: 
+======================================================================
+### PAGINA 31
+======================================================================
+ 
+Página 31 de 61 
+ 
+1: Sí recibió 
+2: No recibió (aplica únicamente para los CIE 10 C835, C910, C920, C924 y C925) 
+97: No Aplica (no es leucemia linfoide o mieloide aguda ni linfoma linfoblástico) 
+ 
+46.3. El usuario recibió en este periodo la fase de quimioterapia denominada Intensificación 
+(aplica solo para leucemia linfoide  o mieloide aguda y linfoma linfoblástico, puede haber 
+recibido más de una fase): Registre: 
+1: Sí recibió 
+2: No recibió (aplica únicamente para los CIE 10 C835, C910, C920, C924 y C925) 
+97: No Aplica (no es leucemia linfoide o mieloide aguda ni linfoma linfoblástico) 
+ 
+46.4. El usuario recibió en este periodo la fase de quimioterapia denominada Consolidación 
+(aplica solo para leucemia linfoide  o mieloide aguda y linfoma linfoblástico, puede haber 
+recibido más de una fase): Registre: 
+1: Sí recibió 
+2: No recibió (aplica únicamente para los CIE 10 C835, C910, C920, C924 y C925) 
+97: No Aplica (no es leucemia linfoide o mieloide aguda ni linfoma linfoblástico) 
+ 
+46.5. El usuario recibió en este periodo la fase de quimioterapia denominada Reinducción 
+(aplica solo para leucemia linfoide aguda y linfoma linfoblástico, puede haber recibido más de 
+una fase): Registre: 
+1: Sí recibió 
+2: No recibió (aplica únicamente para los CIE 10 C835, C910, C920, C924 y C925) 
+97: No Aplica (no es leucemia linfoide aguda ni linfoma linfoblástico)  
+ 
+46.6. El usuario recibió en este periodo la fase de quimioterapia denominada Mantenimiento 
+(aplica solo para leucemia linfoide  o mieloide aguda y linfoma linfoblástico, puede haber 
+recibido más de una fase): Registre: 
+1: Sí recibió 
+2: No recibió (aplica únicamente para los CIE 10 C835, C910, C920, C924 y C925) 
+97: No Aplica (no es leucemia linfoide o mieloide aguda ni linfoma linfoblástico) 
+ 
+46.7. El usuario recibió en este periodo la fase de quimioterapia denominada Mantenimiento 
+largo o final (aplica solo para leucemia linfoide o mieloide aguda y linfoma linfoblástico, puede 
+haber recibido más de una fase): Registre: 
+ 
+1: Sí recibió 
+2: No recibió (aplica únicamente para los CIE 10 C835, C910, C920, C924 y C925) 
+97: No Aplica (no es leucemia linfoide o mieloide aguda ni linfoma linfoblástico) 
+ 
+======================================================================
+### PAGINA 32
+======================================================================
+ 
+Página 32 de 61 
+ 
+46.8. El usuario recibió en este periodo Otra fase de quimioterapia denominada diferente a las 
+anteriores (aplica solo para leucemia linfoide  o mieloide aguda y linfoma linfoblástico, puede 
+haber recibido más de una fase): Registre: 
+ 
+1: Sí recibió 
+2: No recibió (aplica únicamente para los CIE 10 C835, C910, C920, C924 y C925) 
+97: No Aplica (no es leucemia linfoide o mieloide aguda ni linfoma linfoblástico) 
+ 
+47. Número de ciclos iniciados y administrados en el periodo de reporte, incluyendo el que aún 
+recibe en la fecha de finalización del periodo (aplica para todos los cánceres): Escriba el número 
+de ciclos iniciados en el periodo de reporte actual (pueden ser ciclos en diferentes esquemas de 
+manejo) 
+ 
+98: No Aplica o no la recibió, aunque fue formulada (en la variable 45 seleccionó 98) 
+ 
+Aclaraciones 
+*Ciclos: el número de administraciones del esquema o protocolo según el plan terapéutico 
+indicado por el especialista tratante.  
+*En el manejo de los tumores sólidos los ciclos generalmente tienen periodo de descanso entre 
+una y otra administración del esquema, registre de acuerdo con la historia clínica. 
+*Para los cánceres hematolinfáticos registrar según la descripción en la historia clínica, ya que el 
+ciclo se define por el protocolo que recibe el paciente.  
+*Para las hormonoterapias el dato en esta variable es 1 (un ciclo) en tratamientos orales sin 
+periodos de descanso. 
+*Para las terapias hormonales vía intramuscular o subcutánea se cuenta el número de 
+aplicaciones del periodo, cada aplicación es un ciclo. 
+*Cada administración de medicamentos vía intratecal, debe ser contada como un ciclo 
+ 
+48. Ubicación temporal del primer o único esquema de quimioterapia o terapia sistémica en el 
+periodo en relación al manejo oncológico: Registre: 
+1: Neoadyuvancia (manejo inicial prequirúrgico) 
+2: Tratamiento inicial curativo sin cirugía sugerida (por ejemplo, sería una opción frecuente en 
+caso de leucemias o linfomas, u otros cánceres a quienes no se les hizo cirugía) 
+3: Adyuvancia (manejo inicial postquirúrgico) 
+11: Manejo de recaída 
+12: Manejo de enfermedad metastásica 
+13: Manejo paliativo (sin manejo de recaída ni enfermedad metastásica) 
+98: No Aplica (en la variable 45 seleccionó la opción 98) 
+ 
+Aclaraciones 
+======================================================================
+### PAGINA 33
+======================================================================
+ 
+Página 33 de 61 
+ 
+*Esquema o protocolo es el plan terapéutico de la terapia sistémica para el manejo curativo del 
+cáncer, este puede ser uno o varios medicamentos que se administran en un mismo tiempo o en 
+diferente tiempo según lo defina el profesional tratante basado en guías y protocolos médicos.  
+*En los casos de hormonoterapia para cáncer de mama que generalmente se administra por 
+periodos de tiempo de 5 hasta 10 años, si éste comenzó posterior a cirugía, la opción de respuesta 
+es adyuvancia.  
+ 
+49. Fecha de inicio del primer o único esquema de quimioterapia o terapia sistémica que recibió 
+en este periodo.  Este esquema pudo haber sido iniciado antes de periodo de reporte. Registre 
+esta fecha en que se inició este esquema de quimioterapia en el formato AAAA -MM-DD. Si 
+conoce sólo el año y el mes, registre el día 15. 
+ 
+Registre 1845-01-01: No Aplica (en la variable 45 seleccionó la opción 98). 
+ 
+Aclaraciones 
+*Es común que el paciente reciba esquemas prolongados, por tanto, es válido que la fecha a 
+registrar en esta variable anteceda al periodo y se continúe suministrando en el periodo actual. 
+*La información a registrar corresponde a la fecha de inicio efectivo del medicamento, mas no a 
+la fecha de prescripción de este. 
+ 
+50. Número de IPS que suministran el primer o único esquema de quimioterapia o terapia 
+sistémica de este periodo de reporte: Registre el número de Instituciones Prestadoras de 
+Servicios de Salud que suministran el primer esquema de quimioterapia del periodo de reporte. 
+ 
+98: No aplica (en la variable 45 seleccionó la opción 98) 
+ 
+51. Código de la IPS1 que suministra el primer o único esquema de quimioterapia o terapia 
+sistémica de este periodo de reporte: registre el código de habilitación de IPS (disponible en la 
+página web REPS  – código de 12 dígitos incluido el cero inicial ). Para todos los tratamientos 
+orales, se debe consignar el código de habilitación de la IPS que le prescribió el tratamiento no el 
+código del operador logístico que realiza la entrega. 
+ 
+96: Terapia sistémica suministrada fuera del país  
+98: No Aplica (en la variable 45 seleccionó la opción 98) 
+ 
+52. Código de la IPS2 que suministra el primer o único esquema de quimioterapia o terapia 
+sistémica de este periodo de reporte: registre el código de habilitación de IPS (disponible en la 
+página web REPS – código de 12 dígitos incluido el cero inicial) 
+ 
+98: No Aplica 
+ 
+======================================================================
+### PAGINA 34
+======================================================================
+ 
+Página 34 de 61 
+ 
+Aclaraciones 
+*Verifique que la IPS cuente con el servicio de quimioterapia habilitado de acuerdo con el REPS 
+*Para todos los tratamientos orales, se debe consignar el código de habilitación de la IPS que le 
+prescribió el tratamiento no el código del operador logístico que realiza la entrega. 
+*Se incluye en variable 51, la opción de terapia sistémica suministrada fuera del país, para 
+pacientes con diagnóstico confirmado en Colombia o que actualmente residan en el país, quienes 
+reciben al menos parte del esquema por un prestador extranjero.  
+ 
+53. Cuantos medicamentos antineoplásicos o terapia hormonal, el (los) especialista(s) 
+tratante(s) del cáncer propusieron como manejo en el primer o único esquema de 
+quimioterapia o terapia sistémica de este periodo de reporte: Escriba el número de 
+medicamentos antineoplásicos propuestos en el primer esquema de este periodo. Recuerde 
+descontar el número de medicamento adyuvantes o de premedicación de la terapia que no son 
+antineoplásicos. 
+ 
+98: No Aplica (en la variable 45 seleccionó la opción 98)  
+ 
+Aclaraciones 
+*Registrar el número total de medicamentos propuestos (no necesariamente administrados) 
+durante el periodo, por el o los especialistas tratantes.  
+ 
+*En las variables 53.1 a 53.9 y 54 a 56, registre los ATC sólo de los fármacos administrados en el 
+periodo. 
+ 
+*Los ATC correspondientes a esteroides (dexametasona, prednisolona, prednisona y 
+metilprednisolona), no deben ser reportados en pacientes con cánceres sólidos, linfomas de 
+Hodgkin ni con leucemia mieloide aguda, ya que su utilidad en este tipo de pacientes no está dada 
+en efecto antineoplásico sino reducción de efectos adversos.  
+ 
+*Todo paciente con cáncer sólido o hematolinfático que reciba pegfilgastrim como parte de su 
+esquema de tratamiento, debe ser reportado más no cuantificado. No es válido como 
+monoterapia (único fármaco). 
+ 
+*Los fármacos antirresortivos (ácido ibandrónico, alendronato, zoledrónico y denosumab), sólo 
+se consideran válidos para la cohorte, si su indicación corresponde a manejo de metástasis ósea, 
+incluyendo hipercalcemia maligna. Debe ser reportado más no cuantificado. 
+ 
+ 
+53.1. Medicamento antineoplásico administrado al usuario - PRIMER o único esquema del 
+periodo de reporte.  Registre el código ATC del medicamento (Incluido o no en el plan de 
+beneficios) 
+98: No aplica, en la variable 45 seleccionó la opción 98 
+ 
+======================================================================
+### PAGINA 35
+======================================================================
+ 
+Página 35 de 61 
+ 
+53.2. Medicamento antineoplásico administrado al usuario - PRIMER o único esquema del 
+periodo de reporte. Registre el código ATC del medicamento (Incluido o no en el plan de 
+beneficios) 
+97: Sí recibió quimioterapia, ya registrada en las variables anteriores (en la variable 45 seleccionó 
+la opción 1) 
+98: No aplica, en la variable 45 seleccionó la opción 98 
+ 
+53.3. Medicamento antineoplásico administrado al usuario - PRIMER o único esquema del 
+periodo de reporte.  Registre el código ATC del medicamento (Incluido o no en el plan de 
+beneficios) 
+97: Sí recibió quimioterapia, ya registrada en las variables anteriores (en la variable 45 seleccionó 
+la opción 1) 
+98: No aplica, en la variable 45 seleccionó la opción 98 
+ 
+53.4. Medicamento antineoplásico administrado al usuario - PRIMER o único esquema del 
+periodo de reporte.  Registre el código ATC del medicamento (Incluido o no en el plan de 
+beneficios) 
+97: Sí recibió quimioterapia, ya registrada en las variables anteriores (en la variable 45 seleccionó 
+la opción 1) 
+98: No aplica, en la variable 45 seleccionó la opción 98 
+ 
+53.5. Medicamento antineoplásico administrado al usuario - PRIMER o único esquema del 
+periodo de reporte.  Registre el código ATC del medicamento (Incluido o no en el plan de 
+beneficios) 
+97: Sí recibió quimioterapia, ya registrada en las variables anteriores (en la variable 45 seleccionó 
+la opción 1) 
+98: No aplica, en la variable 45 seleccionó la opción 98 
+ 
+53.6. Medicamento antineoplásico administrado al usuario - PRIMER o único esquema del 
+periodo de reporte.  Registre el código ATC del medicamento (Incluido o no en el plan de 
+beneficios) 
+97: Sí recibió quimioterapia, ya registrada en las variables anteriores (en la variable 45 seleccionó 
+la opción 1) 
+98: No aplica, en la variable 45 seleccionó la opción 98 
+ 
+53.7. Medicamento antineoplásico administrado al usuario - PRIMER o único esquema del 
+periodo de reporte.  Registre el código ATC del medicamento (Incluido o no en el plan de 
+beneficios) 
+97: Sí recibió quimioterapia, ya registrada en las variables anteriores (en la variable 45 seleccionó 
+la opción 1) 
+98: No aplica, en la variable 45 seleccionó la opción 98 
+======================================================================
+### PAGINA 36
+======================================================================
+ 
+Página 36 de 61 
+ 
+ 
+53.8. Medicamento antineoplásico administrado al usuario - PRIMER o único esquema del 
+periodo de reporte.  Registre el código ATC del medicamento (Incluido o no en el plan de 
+beneficios) 
+97: Sí recibió quimioterapia, ya registrada en las variables anteriores (en la variable 45 seleccionó 
+la opción 1) 
+98: No aplica, en la variable 45 seleccionó la opción 98 
+ 
+53.9. Medicamento antineoplásico administrado al usuario - PRIMER o único esquema del 
+periodo de reporte.  Registre el código ATC del medicamento (Incluido o no en el plan de 
+beneficios) 
+97: Sí recibió quimioterapia, ya registrada en las variables anteriores (en la variable 45 seleccionó 
+la opción 1) 
+98: No aplica, en la variable 45 seleccionó la opción 98 
+ 
+Aclaraciones variables 53.1 a 53.9 
+*Verifique que los ATC registrados en las variables se encuentre descritos en los soportes clínico 
+y hayan sido administrados entre el 2 enero de 2025 al 1 enero de 2026.  
+*No debe capturar el mismo esquema de tratamiento en primer y segundo o último esquema 
+ 
+54. Medicamento Antineoplásico o terapia hormonal para el cáncer, adicional a los reportados 
+en las variables 53.1 a 53.9 - 1 administrado al usuario- primer o único esquema del periodo de 
+reporte: Registre el código ATC del medicamento (no se tiene presente la cobertura del plan de 
+beneficios en salud) del listado usado en este caso (disponible en la plataforma SISCAC) 
+ 
+97: No Aplica (No recibió medicamentos diferentes a los enunciados en las variables 53.1 a la 
+53.9 y en la variable 45 seleccionó la opción 1) 
+98: No Aplica (no tuvo este esquema y en la variable 45 seleccionó la opción 98) 
+ 
+Aclaraciones 
+*Verifique que el medicamento no se encuentre en el listado de la variable 53.1 a 53.9 
+*Reporte únicamente medicamentos antineoplásicos  
+*Recuerde que, al reportar antineoplásicos en esta variable, debe revisar que no se repitan en 
+variables 55 y 56 
+*No debe capturar el mismo esquema de tratamiento en primer y segundo esquema 
+ 
+ 
+ 
+ 
+ 
+======================================================================
+### PAGINA 37
+======================================================================
+ 
+Página 37 de 61 
+ 
+55. Medicamento Antineoplásico o terapia hormonal para el cáncer, adicional a los reportados 
+en las variables 53.1 a 53.9 - 2 administrado al usuario- primer o único esquema del periodo de 
+reporte: Registre el código ATC del medicamento (no se tiene presente la cobertura del plan de 
+beneficios en salud) listado usado en este caso (disponible en la plataforma SISCAC). 
+ 
+97: No Aplica (No recibió medicamento diferente a los enunciados en las variables 53.1 a la 53.9 
+y en la variable 45 seleccionó la opción 1) 
+98: No Aplica (no tuvo este esquema y en la variable 45 seleccionó la opción 98) 
+ 
+Aclaraciones 
+*Verifique que el medicamento no se encuentre en el listado de la variable 53.1 a 53.9 
+*Reporte únicamente medicamentos antineoplásicos  
+ 
+56. Medicamento Antineoplásico o terapia hormonal para el cáncer, adicional a los reportados 
+en las variables 53.1 a 53.9 - 3 administrado al usuario- primer o único esquema del periodo de 
+reporte: Registre el código ATC del medicamento (no se tiene presente la cobertura del plan de 
+beneficios en salud) listado usado en este caso (disponible en la plataforma SISCAC). 
+ 
+97: No Aplica (No recibió medicamento diferente a los enunciados en las variables 53.1 a la 53.9 
+y en la variable 45 seleccionó la opción 1) 
+98: No Aplica (no tuvo este esquema y en la variable 45 seleccionó la opción 98) 
+ 
+Aclaraciones 
+*Verifique que el medicamento no se encuentre en el listado de la variable 53.1 a 53.9 
+*Reporte únicamente medicamentos antineoplásicos  
+ 
+57. ¿Recibió quimioterapia intratecal en el primer o único esquema de este periodo de 
+reporte?: Registre: 
+1: Sí recibió  
+2: No recibió 
+98: No Aplica (no tuvo ningún esquema de quimioterapia, en variable 45 seleccionó 98: No aplica) 
+ 
+Aclaraciones 
+*Si el paciente tiene un cáncer en el que no aplica la quimioterapia intratecal y recibió un 
+tratamiento de quimioterapia o terapia sistémica por favor registre la opción 2:no recibió.  
+ 
+58. Fecha de finalización del primer o único esquema de este periodo de reporte. Si es 
+hormonoterapia terminada o esquema terminado en este periodo reporte la fecha de 
+finalización del tratamiento actual: Fecha en que terminó la administración del primer o único  
+esquema de quimioterapia en el formato AAAA-MM-DD.  Si conoce sólo el año y el mes, registre 
+el día 15. 
+======================================================================
+### PAGINA 38
+======================================================================
+ 
+Página 38 de 61 
+ 
+Registre 1845-01-01: No Aplica (en la variable 45 seleccionó la opción 98). 
+Registre 1800-01-01: para casos de hormonoterapia o de esquema que aún no finalizan.  
+ 
+59. Características actuales del primer o único esquema de este periodo de reporte: 
+1: Finalizado, esquema completo según medicamentos programados 
+2: Finalizado, esquema incompleto pero finalizado por algún motivo 
+3: No finalizado, esquema incompleto, pero aún bajo tratamiento (ejemplo: hormonoterapia o 
+esquema no finalizado) 
+98: No Aplica (no tuvo ningún esquema de terapia sistémica y en la variable 45 seleccionó la 
+opción 98) 
+ 
+60. Motivo de la finalización (prematura) de este primer o único esquema (Aplica si registró la 
+opción 2 de la variable anterior). Seleccione un sólo número (lo que primero ocurrió): Registre: 
+1: Toxicidad de uno o más medicamentos 
+2: Otros motivos médicos 
+3: Muerte 
+4: Cambio de EAPB 
+5: Decisión del usuario, abandonó la terapia 
+6: No hay disponibilidad de medicamentos 
+7: Otros motivos administrativos 
+8: Otras causas no contempladas 
+98: No Aplica 
+ 
+61. Ubicación temporal del ÚLTIMO esquema de quimioterapia o terapia sistémica de este 
+periodo de reporte en relación con el manejo oncológico: (Si en el periodo recibió únicamente 
+hormonoterapia no reportar nuevamente en esquema final), Registre: 
+Registre: 
+1: Neoadyuvancia (manejo inicial prequirúrgico) 
+2: Tratamiento inicial curativo sin cirugía sugerida (por ejemplo, sería una opción frecuente en 
+caso de leucemias o linfomas, u otros cánceres a quienes no se les hizo cirugía) 
+3: Adyuvancia (manejo inicial postquirúrgico) 
+11: Manejo de progresión o recaída 
+12: Manejo de enfermedad metastásica 
+13: Cambio por toxicidad 
+14: Manejo paliativo (sin manejo de recaída ni enfermedad metastásica) 
+97: Solo recibió un esquema de quimioterapia en este periodo y en la variable 45 seleccionó la 
+opción 1. (verifique que las variables 62 a 73 registren No Aplica) 
+98: No Aplica (en la variable 45 seleccionó la opción 98) 
+ 
+ 
+ 
+======================================================================
+### PAGINA 39
+======================================================================
+ 
+Página 39 de 61 
+ 
+Aclaraciones 
+*Para pacientes que recibieron un solo esquema dentro del periodo de reporte y aún no finalizan, 
+por favor registre la opción 97.  
+*No debe capturar el mismo esquema de tratamiento de las variables 45 a 61 en las 62 a 73.  
+ 
+62. Fecha de inicio del último esquema de quimioterapia o terapia sistémica de este periodo 
+de reporte. Si es hormonoterapia reporte la fecha de inicio del tratamiento actual, así haya sido 
+iniciada previo al reporte actual: Fecha en que se inició este esquema de quimioterapia en el 
+formato AAAA-MM-DD.  Si conoce sólo el año y el mes, registre el día 15. 
+Registre 1845-01-01: No Aplica.  
+ 
+63. Número de IPS que suministran el último esquema de este periodo de reporte: Registre el 
+número de Instituciones Prestadoras de Servicios de Salud que suministran el último esquema 
+de quimioterapia 
+98: No aplica 
+ 
+64. Código de la IPS1 que suministra el último esquema en este periodo de reporte: registre el 
+código de habilitación de IPS (disponible en la página web REPS – código de 12 dígitos incluido el 
+cero inicial). Para todos los tratamientos orales, se debe consignar el código de habilitación de la 
+IPS que le prescribió el tratamiento, no el código del operador logístico que realiza la entrega. 
+98: No Aplica 
+ 
+65. Código de la IPS2 que suministra el último esquema en este periodo de reporte: registre el 
+código de habilitación de IPS (disponible en la página web REPS – código de 12 dígitos incluido el 
+cero inicial). Para todos los tratamientos orales, se debe consignar el código de habilitación de la 
+IPS que le prescribió el tratamiento no el código del operador logístico que realiza la entrega. 
+98: No Aplica. 
+ 
+66. Cuantos medicamentos antineoplásicos o terapia hormonal, el (los) especialista(s) 
+tratante(s) del cáncer propusieron como manejo en ÚLTIMO esquema de quimioterapia o 
+terapia sistémica de este periodo de reporte: Escriba el número de medicamentos 
+antineoplásicos propuestos en el primer esquema de este periodo. Recuerde descontar el 
+número de medicamento adyuvantes o de premedicación de la terapia que no son 
+antineoplásicos.  
+98: No Aplica, no recibió segundo esquema o en la 45 marcó opción 98  
+ 
+Aclaraciones 
+*Registrar el número total de medicamentos propuestos (no necesariamente administrados) 
+durante el periodo, por el o los especialistas tratantes.  
+*En las variables 66.1 a 66.9 y 67 a 69, registre los ATC sólo de los fármacos administrados en el 
+periodo 
+======================================================================
+### PAGINA 40
+======================================================================
+ 
+Página 40 de 61 
+ 
+66.1. Medicamento antineoplásico administrado al usuario - ÚLTIMO esquema del periodo de 
+reporte. Registre el código ATC del medicamento (Incluido o no en el plan de beneficios) 
+98: No aplica 
+ 
+66.2. Medicamento antineoplásico administrado al usuario - ÚLTIMO esquema del periodo de 
+reporte. Registre el código ATC del medicamento (Incluido o no en el plan de beneficios) 
+97: Sí recibió quimioterapia, ya registrada en las variables anteriores (en la variable 45 seleccionó 
+la opción 1) 
+98: No aplica 
+ 
+66.3. Medicamento antineoplásico administrado al usuario - ÚLTIMO esquema del periodo de 
+reporte. Registre el código ATC del medicamento (Incluido o no en el plan de beneficios) 
+97: Sí recibió quimioterapia, ya registrada en las variables anteriores (en la variable 45 seleccionó 
+la opción 1) 
+98: No aplica 
+ 
+66.4. Medicamento antineoplásico administrado al usuario - ÚLTIMO esquema del periodo de 
+reporte. Registre el código ATC del medicamento (Incluido o no en el plan de beneficios) 
+97: Sí recibió quimioterapia, ya registrada en las variables anteriores (en la variable 45 seleccionó 
+la opción 1) 
+98: No aplica 
+ 
+66.5. Medicamento antineoplásico administrado al usuario - ÚLTIMO esquema del periodo de 
+reporte. Registre el código ATC del medicamento (Incluido o no en el plan de beneficios) 
+ 
+97: Sí recibió quimioterapia, ya registrada en las variables anteriores (en la variable 45 seleccionó 
+la opción 1) 
+98: No aplica 
+ 
+66.6. Medicamento antineoplásico administrado al usuario - ÚLTIMO esquema del periodo de 
+reporte. Registre el código ATC del medicamento (Incluido o no en el plan de beneficios) 
+97: Sí recibió quimioterapia, ya registrada en las variables anteriores (en la variable 45 seleccionó 
+la opción 1) 
+98: No aplica 
+ 
+66.7. Medicamento antineoplásico administrado al usuario - ÚLTIMO esquema del periodo de 
+reporte. Registre el código ATC del medicamento (Incluido o no en el plan de beneficios) 
+ 
+97: Sí recibió quimioterapia, ya registrada en las variables anteriores (en la variable 45 seleccionó 
+la opción 1) 
+98: No aplica 
+======================================================================
+### PAGINA 41
+======================================================================
+ 
+Página 41 de 61 
+ 
+ 
+66.8. Medicamento antineoplásico administrado al usuario - ÚLTIMO esquema del periodo de 
+reporte. Registre el código ATC del medicamento (Incluido o no en el plan de beneficios) 
+97: Sí recibió quimioterapia, ya registrada en las variables anteriores (en la variable 45 seleccionó 
+la opción 1) 
+98: No aplica 
+ 
+66.9. Medicamento antineoplásico administrado al usuario - ÚLTIMO esquema del periodo de 
+reporte. Registre el código ATC del medicamento (Incluido o no en el plan de beneficios) 
+ 
+97: Sí recibió quimioterapia, ya registrada en las variables anteriores (en la variable 45 seleccionó 
+la opción 1) 
+98: No aplica 
+ 
+67. Medicamento Antineoplásico o terapia hormonal para cáncer, adicional a los reportados 
+en variables 66.1 a 66.9 -1 administrado al usuario- último esquema: Registre el código ATC del 
+medicamento (no se tiene presente la cobertura del Plan de Beneficios en Salud) 
+ 
+97: No Aplica (No recibió medicamento diferente a los enunciados en las variables 66.1 a la 66.9 
+y en la variable 61 seleccionó una opción <:14) 
+98: No Aplica (no tuvo este último esquema o en la variable 61 seleccionó la opción 97 ó 98) 
+ 
+Aclaraciones 
+*Verifique que el medicamento no se encuentre en el listado de la variable 66.1 a 66.9 
+*Reporte únicamente medicamentos antineoplásicos  
+*Recuerde que, al reportar antineoplásicos en esta variable, debe revisar que no se repitan en 
+variables 68 y 69 
+ 
+68. Medicamento Antineoplásico o terapia hormonal para cáncer, adicional a los reportados 
+en variables 66.1 a 66.9 -2 administrado al usuario- último esquema: Registre el código ATC del 
+medicamento independiente de la cobertura del Plan de Beneficios en Salud.  
+ 
+97: No Aplica (No recibió medicamento diferente a los enunciados en las variables 66.1 a la 66.9 
+en la variable 61 seleccionó una opción <:14) 
+98: No Aplica (no tuvo este último esquema o en la variable 61 seleccionó la opción 97 ó 98) 
+ 
+Aclaraciones 
+*Verifique que el medicamento no se encuentre en el listado de la variable 66.1 a 66.9 
+*Reporte únicamente medicamentos antineoplásicos  
+ 
+======================================================================
+### PAGINA 42
+======================================================================
+ 
+Página 42 de 61 
+ 
+69. Medicamento Antineoplásico o terapia hormonal para cáncer, adicional a los reportados 
+en variables 66.1 a 66.9 Registre el código ATC del medicamento independiente de la cobertura 
+del Plan de Beneficios en Salud. 
+97: No Aplica (No recibió medicamento diferente a los enunciados en las variables 66.1 a la 66.9 
+y en la variable 61 seleccionó una opción <:14) 
+98: No Aplica (no tuvo este último esquema o en la variable 61 seleccionó la opción 97 o 98) 
+ 
+Aclaraciones 
+*Verifique que el medicamento no se encuentre en el listado de la variable 66.1 a 66.9 
+*Reporte únicamente medicamentos antineoplásicos  
+ 
+70. ¿Recibió quimioterapia intratecal en el último esquema de este periodo de reporte?: 
+Registre: 
+1: Si recibió 
+2: No recibió 
+98: No Aplica (no tuvo ningún esquema de quimioterapia, en variable 45 seleccionó 98: No aplica) 
+ 
+71. Fecha de finalización del último esquema de quimioterapia o terapia sistémica este periodo 
+de reporte. Si es hormonoterapia o esquema terminados  en este periodo reporte la fecha de 
+finalización del tratamiento actual: Fecha en que terminó la administración del último esquema 
+de quimioterapia en el formato AAAA-MM-DD.  Si conoce sólo el año y el mes, registre el día 15. 
+Registre 1845-01-01: No Aplica. 
+Registre 1800-01-01: para casos de hormonoterapia o de esquema que aún no finalizan. 
+ 
+72. Características actuales del último esquema de este periodo:  
+Registre: 
+1: Finalizado, esquema completo según medicamentos programados 
+2: Finalizado, esquema incompleto pero finalizado por algún motivo 
+3: No finalizado, esquema incompleto, pero aún bajo tratamiento (ejemplo: hormonoterapia o 
+esquema no finalizado) 
+98: No Aplica  
+ 
+73. Motivo de la finalización (prematura) de este último esquema (Aplica si registró la opción 
+2 de la pregunta anterior) Seleccione un sólo número (lo que primero ocurrió): 
+Registre: 
+1: Toxicidad de uno o más medicamentos 
+2: Otros motivos médicos 
+3: Muerte 
+4: Cambio de EPS 
+5: Decisión del usuario, abandonó la terapia  
+6: No hay disponibilidad de medicamentos 
+======================================================================
+### PAGINA 43
+======================================================================
+ 
+Página 43 de 61 
+ 
+7: Otros motivos administrativos 
+8: Otras causas no contempladas 
+98: No Aplica 
+ 
+INFORMACIÓN ESPECÍFICA DE CIRUGÍA EN EL PERIODO DE REPORTE ACTUAL 
+ 
+74. ¿Fue sometido el usuario a una o más cirugías curativas o paliativas como parte del manejo 
+del cáncer durante este periodo de reporte?:Registre: 
+1: Si fue sometido al menos a una cirugía durante este periodo 
+2: No recibió cirugía  
+ 
+Aclaraciones 
+*Para los casos en que el procedimiento quirúrgico es diagnóstico y terapéutico (ejemplo: 
+tiroidectomía o resección de tumores de piel) reporte el procedimiento en esta variable y registre 
+la misma fecha de la variable 23.  
+*Reporte los procedimientos a partir del listado CUPS del archivo operativo y verifique que el 
+objetivo del procedimiento es tratamiento para el manejo del cáncer. 
+*Cuando en cánceres hematolinfáticos tengan un procedimiento quirúrgico, verifique 
+minuciosamente que corresponde al manejo del cáncer. 
+*No son objeto de reporte la realización de implante de catéter, punción lumbar, biopsias ni 
+cierre de ostomías (colostomía, ileostomía, gastrostomía, nefrostomía, traqueostomía, etc), se 
+aclara, que los procedimientos a reportar son los indicados específicamente para el manejo del 
+cáncer, y no sus complicaciones. 
+*Si durante el mismo tiempo quirúrgico, el paciente recibió varias intervenciones que apliquen 
+para el reporte, se debe seleccionar la más representativa en relación con el tipo de cáncer.  
+*No aplican cirugías propuestas, pero no realizadas (se eliminó opción 3). 
+ 
+75. Número de cirugías a las que fue sometido el usuario durante el periodo de reporte actual: 
+Registre el número de cirugías a las que el usuario fue sometido durante el periodo de reporte 
+actual, incluya aquellas por complicaciones relacionadas a la cirugía inicial. Valide que se esté 
+reportando la cantidad de cirugías (tiempos quirúrgicos) y no la cantidad de procedimientos CUPS 
+realizados dentro de una o varias cirugías. 
+98: No Aplica (si respondió 2 en la pregunta anterior) 
+ 
+ 
+76. Fecha de realización de la primera cirugía en este periodo de reporte: Registre la fecha en 
+el formato AAAA-MM-DD.  Si conoce sólo el año y el mes, registre el día 15.  
+1845-01-01: No Aplica. 
+ 
+77. Código de la IPS que realizó la primera cirugía de este periodo de reporte: Registre el código 
+de habilitación de la IPS (disponible en la página web REPS – código de 12 dígitos incluido el cero 
+inicial) 
+======================================================================
+### PAGINA 44
+======================================================================
+ 
+Página 44 de 61 
+ 
+96: Cirugía fuera del país  
+98: No Aplica 
+ 
+78. Código de primera cirugía en este periodo de reporte: Registre el código de procedimiento 
+CUPS ( disponible en la plataforma SISCAC) se recomienda utilizar el CUPS que tenga mayor 
+relación con el manejo del cáncer o el que mayor complejidad represente dentro de la cirugía). 
+98: No Aplica (seleccionó la opción 2 en la variable 74) 
+ 
+Aclaraciones 
+*Los procedimientos como fotoféresis, fototerapia, crioterapia y radiofrecuencia, se deben 
+reportar en esta variable, con el código CUP correspondiente; tener en cuenta en variable 74 y 
+cuantificar en variable 75. 
+ 
+79. Ubicación temporal de esta primera cirugía en relación al manejo oncológico: Esta cirugía 
+es: 
+1: Parte del manejo inicial para el cáncer (tratamiento inicial curativo) 
+5: Manejo de recaída 
+6: Manejo de enfermedad metastásica. 
+98: No Aplica (seleccionó la opción 2 en la variable 74). 
+ 
+80. Fecha de realización de la última cirugía o cirugía de reintervención en este periodo de 
+reporte: Registre la Fecha de realización de la última cirugía en el formato AAAA -MM-DD.  Si 
+conoce sólo el año y el mes, registre el día 15.  
+ 
+1845-01-01: No Aplica (sólo hubo una intervención en este periodo o no hubo cirugías en este 
+periodo). 
+ 
+Aclaraciones 
+*Valide que no se estén reportando datos del evento quirúrgico denominado como primera 
+cirugía de este periodo. 
+ 
+81. Motivo de haber realizado la última cirugía de este periodo de reporte: Registre: 
+1: Complementar tratamiento quirúrgico del cáncer no asociado a complicaciones de la primera 
+cirugía 
+2: Complicaciones debida a la primera cirugía o siguientes 
+3: Complicaciones por otras condiciones médicas no relacionadas a la cirugía (por ejemplo, 
+comorbilidad) 
+5: 1 y 3 
+6: 2 y 3 
+98: No Aplica (sólo hubo una intervención en este periodo o no hubo cirugías en este periodo) 
+ 
+======================================================================
+### PAGINA 45
+======================================================================
+ 
+Página 45 de 61 
+ 
+82. Código de la IPS que realiza la última cirugía en este periodo de reporte: registre el código 
+de habilitación de IPS (disponible en la página web REPS  – código de 12 dígitos incluido el cero 
+inicial). 
+98: No Aplica (sólo hubo una intervención en este periodo o no hubo cirugías en este periodo) 
+ 
+83. Código de última cirugía en este periodo de reporte: Registre el código de procedimiento 
+CUPS ( archivo operativo CUPS en SISCAC ). Se recomienda utilizar el CUPS que tenga mayor 
+relación con el manejo del cáncer o el que mayor complejidad represente dentro de la cirugía. 
+98: No Aplica (sólo hubo una intervención en este periodo o no hubo cirugías en este periodo) 
+ 
+84. Ubicación temporal de esta última cirugía en relación al manejo oncológico, en este periodo 
+de reporte:  
+Esta cirugía es: 
+1: Parte del manejo inicial para el cáncer (manejo inicial curativo) 
+5: Manejo de recaída. 
+6: Manejo de enfermedad metastásica. 
+98: No Aplica (sólo hubo una intervención en este periodo o seleccionó la opción 2 en la variable 
+74) 
+ 
+85. Estado vital al finalizar la única o última cirugía de este periodo de reporte: 
+Registre: 
+1: Vivo 
+2: Fallecido 
+98: No Aplica (seleccionó la opción 2 en la variable 74) 
+ 
+INFORMACIÓN ESPECÍFICA DE RADIOTERAPIA EN EL PERIODO DE REPORTE ACTUAL 
+ 
+86. ¿Recibió el usuario algún tipo de radioterapia en el periodo de reporte actual?: 
+Registre: 
+1: Si recibió algún tipo de radioterapia 
+98: No aplica (verifique que en las variables 87 a 105 se registre no Aplica)  
+ 
+Aclaraciones 
+*No aplica radioterapia propuesta más no suministrada (se eliminó la opción 2) 
+ 
+87. Número de sesiones de radioterapia recibidas en el periodo. Registre el número de sesiones 
+de radioterapia suministrados durante el periodo de reporte actual (valide que en los soportes  
+ 
+exista la cantidad de sesiones ordenadas que serán capturadas en el momento de la auditoria en 
+variable adicional). Registre un valor numérico. 
+98: No Aplica 
+======================================================================
+### PAGINA 46
+======================================================================
+ 
+Página 46 de 61 
+ 
+ 
+Aclaraciones 
+*Registre el número total de sesiones de radioterapia interna o externa, suministradas en el 
+periodo. 
+ 
+88. Fecha de inicio de primer o único esquema de cualquier tipo de radioterapia suministrado 
+en el periodo de reporte actual. Reporte la fecha de inicio del tratamiento actual, así haya sido 
+iniciada previo al reporte actual: Registre la fecha en que se inició cualquiera de los tipos de 
+radioterapia en el formato AAAA-MM-DD.  Si conoce sólo el año y el mes, registre el día 15.  
+1845-01-01: No Aplica. 
+ 
+89. Ubicación temporal del primer o único esquema de cualquier tipo de radioterapia en este 
+periodo de reporte en relación al tratamiento oncológico: Registre para todos los usuarios: 
+ 
+1: Neoadyuvancia (manejo inicial prequirúrgico) 
+2: Tratamiento inicial curativo sin cirugía sugerida (por ejemplo, solo algunos cánceres que se 
+curan con radioterapia exclusiva) 
+3: Adyuvancia (manejo inicial postquirúrgico) 
+11: Manejo de recaída  
+12: Manejo de enfermedad metastásica 
+13: Manejo paliativo (sin manejo de recaída ni enfermedad metastásica) 
+98: No Aplica 
+ 
+90. Tipo de radioterapia aplicada en este primer o único esquema: Registre el código de 
+procedimiento CUPS (archivo operativo CAC) 
+98: No Aplica 
+ 
+91. Número de IPS que suministran este primer o único esquema de radioterapia: Registre el 
+número de IPS que intervinieron en la administración de la dosis de radioterapia. 
+98: No Aplica 
+ 
+92. Código de la IPS1 que suministra la radioterapia de este primer o único esquema:  registre 
+el código de habilitación de IPS (disponible en la página web REPS – código de 12 dígitos incluido 
+el cero inicial) 
+96: Radioterapia fuera del país  
+98: No Aplica 
+ 
+93. Código de la IPS2 que suministra la radioterapia de este primer o único esquema: 
+registre el código de habilitación de IPS (disponible en la página web REPS – código de 12 dígitos 
+incluido el cero inicial) 
+98: No Aplica 
+======================================================================
+### PAGINA 47
+======================================================================
+ 
+Página 47 de 61 
+ 
+ 
+94. Fecha de finalización de primer o único esquema de radioterapia: Registre la fecha de 
+finalización de cualquiera de los tipos de radioterapia en el formato AAAA -MM-DD.  Si conoce 
+sólo el año y el mes, registre el día 15. 
+1800-01-01: esquema de radioterapia que aún no finalizan.  
+1845-01-01: No Aplica. 
+ 
+95. Características actuales de este primer o único esquema de radioterapia: Registre: 
+1: Finalizado, dosis completa de radioterapia prescrita 
+2: Finalizado, dosis incompleta pero finalizada por algún motivo 
+3: No finalizado, esquema incompleto, pero aún bajo tratamiento 
+98: No Aplica 
+ 
+96. Motivo de la finalización de este primer o único esquema de radioterapia (aplica si registró 
+la opción 2 de la pregunta anterior). Seleccione un sólo número (lo que primero ocurrió):  
+Registre: 
+1: Toxicidad 
+2: Otros motivos médicos 
+3: Muerte 
+4: Cambio de EPS 
+5: Decisión del usuario, abandono la terapia.  
+6: Otros motivos administrativos 
+7: Otras causas no contempladas 
+98: No Aplica 
+ 
+97. Fecha de inicio del último esquema de cualquier tipo de radioterapia suministrado en el 
+periodo de reporte actual: Registre la fecha en que se inició el último esquema, de cualquiera de 
+los tipos de radioterapia en el formato AAAA-MM-DD.  Si conoce sólo el año y el mes, registre el 
+día 15. 
+1845-01-01: No Aplica. 
+ 
+98. Ubicación temporal/intención del ÚLTIMO esquema de cualquier tipo de radioterapia 
+suministrado en el periodo actual en relación al tratamiento oncológico: Registre: 
+ 
+1: Neoadyuvancia (manejo inicial prequirúrgico) 
+2: Tratamiento inicial curativo sin cirugía sugerida (por ejemplo, Solo algunos cánceres que se 
+curan con radioterapia exclusiva) 
+3: Adyuvancia (manejo inicial postquirúrgico) 
+11: Manejo de recaída  
+12: Manejo de enfermedad metastásica 
+13: Manejo paliativo (sin manejo de recaída ni enfermedad metastásica) 
+======================================================================
+### PAGINA 48
+======================================================================
+ 
+Página 48 de 61 
+ 
+98: No aplica 
+ 
+99. Tipo de radioterapia aplicada en el ÚLTIMO esquema de cualquier tipo de radioterapia 
+suministrado en el periodo de reporte actual: Registre el código de procedimiento CUPS (archivo 
+operativo CAC) 
+98: No Aplica 
+ 
+100. Número de IPS que suministran este último esquema de cualquier tipo de radioterapia en 
+el periodo de reporte actual: Registre el número de IPS que intervinieron en la administración 
+de la dosis de radioterapia 
+98: No Aplica 
+ 
+101. Código de la IPS1 que suministra último esquema de cualquier tipo de radioterapia en el 
+periodo de reporte actual: registre el código de habilitación de IPS (disponible en la página web 
+REPS – código de 12 dígitos incluido el cero inicial). 
+98: No Aplica 
+ 
+102. Código de la IPS2 que suministra último esquema de cualquier tipo de radioterapia en el 
+periodo de reporte actual: registre el código de habilitación de IPS (disponible en la página web 
+REPS – código de 12 dígitos incluido el cero inicial). 
+98: No Aplica 
+ 
+103. Fecha de finalización del último esquema de cualquier tipo de radioterapia suministrado 
+en el periodo de reporte actual: Registre la Fecha de finalización de cualquiera de los tipos de 
+radioterapia en el formato AAAA-MM-DD.  Si conoce sólo el año y el mes, registre el día 15. 
+ 
+Registre 1800-01-01: para esquemas de radioterapia que aún no finalizan 
+Registre 1845-01-01: No Aplica. 
+ 
+104. Características actuales de este último esquema de cualquier tipo de radioterapia 
+suministrado en el periodo de reporte actual: Registre: 
+1: Finalizado, dosis completa de radioterapia prescrita 
+2: Finalizado, dosis incompleta pero finalizada por algún motivo 
+3: No finalizado, esquema incompleto, pero aún bajo tratamiento 
+98: No Aplica 
+ 
+105. Motivo de la finalización de este último esquema de cualquier tipo de radioterapia 
+suministrado en el periodo de reporte actual (aplica si registró la opción 2 de la pregunta 
+anterior). Seleccione un sólo número (lo que primero ocurrió): Registre: 
+1: Toxicidad 
+2: Otros motivos médicos 
+======================================================================
+### PAGINA 49
+======================================================================
+ 
+Página 49 de 61 
+ 
+3: Muerte 
+4: Cambio de EPS 
+5: Decisión del usuario, abandono la terapia. 
+6: Otros motivos administrativos 
+7: Otras causas no contempladas 
+98: No Aplica 
+ 
+INFORMACIÓN ESPECÍFICA DE TRASPLANTE DE CÉLULAS MADRE HEMATOPOYÉTICAS (INCLUYE 
+MÉDULA ÓSEA) EN EL PERIODO DE REPORTE ACTUAL 
+ 
+106. ¿Recibió el usuario trasplante de células progenitoras hematopoyética dentro del periodo 
+de reporte actual?:Registre: 
+1: Sí recibió  
+98: No Aplica (verifique que en las variables 107 a 110 se registra No Aplica) 
+ 
+Aclaraciones 
+*No aplica trasplante propuesto, pero no realizado (se eliminó la opción 2) 
+*No aplican trasplantes de órganos sólidos u otros no relacionados con progenitores 
+hematopoyéticos. 
+ 
+107. Tipo de trasplante recibido: Registre: 
+1: Autólogo 
+2: Alogénico de donante idéntico relacionado 
+3: Alogénico de donante no idéntico relacionado 
+4: Alogénico de donante idéntico no relacionado 
+5: Alogénico de donante no idéntico no relacionado 
+6: Alogénico de cordón umbilical idéntico familiar 
+7: Alogénico de cordón umbilical idéntico no familiar 
+8: Alogénico de cordón no idéntico no familiar 
+9: Alogénico de dos unidades de cordón 
+98: No Aplica (respondió 2 o 98 en la pregunta anterior) 
+ 
+108. Ubicación temporal de este trasplante en relación al manejo oncológico: Este trasplante 
+de células progenitoras hematopoyéticas fue: 
+95: Recaída 
+ 
+96: Refractariedad 
+97: Esquema de consolidación 
+98: No Aplica 
+ 
+Aclaraciones 
+======================================================================
+### PAGINA 50
+======================================================================
+ 
+Página 50 de 61 
+ 
+*Recaída: paciente con criterios de remisión, al que nuevamente se le demuestra 
+enfermedad activa. 
+*Refractariedad: paciente sin criterios de remisión a pesar del manejo. 
+ 
+109. Fecha del trasplante:  registre la fecha de realización del trasplante en el formato AAAA -
+MM-DD. Registre: 
+1845-01-01: No Aplica. 
+ 
+110. Código de la IPS que realizó este trasplante: registre el  código de habilitación de IPS  
+(disponible en la página web REPS – código de 12 dígitos incluido el cero inicial). 
+96: Trasplante fuera del país  
+98: No Aplica 
+ 
+INFORMACIÓN ESPECÍFICA DE TRATAMIENTO COMPLEMENTARIO EN EL PERIODO DE REPORTE 
+ACTUAL 
+ 
+111. El usuario, ¿recibió cirugía reconstructiva en el periodo de reporte actual?: registre: 
+1: Sí recibió cirugía 
+98: No Aplica (No recibió este tipo de cirugía, verifique que en las variables 112 y 113 se registra 
+No Aplica) 
+ 
+Aclaraciones 
+*En casos en los cuales se realiza cirugía curativa y reconstructiva en el mismo tiempo 
+quirúrgico, no se deben reportar las variables correspondientes a cirugía reconstructiva, 
+solamente se deja el registro en las variables 76 o 80, según el caso. 
+*No aplica cirugía reconstructiva propuesta más no realizada (se eliminó la opción 2) 
+ 
+112. Fecha de la cirugía reconstructiva: Fecha en que se realizó la cirugía en el formato AAAA -
+MM-DD. Si conoce sólo el año y el mes, registre el día 15. 
+1845-01-01: No Aplica. 
+ 
+113. Código de la IPS que realizó cirugía reconstructiva: registre el código de habilitación de IPS 
+(disponible en la página web REPS – código de 12 dígitos incluido el cero inicial) 
+98: No Aplica 
+ 
+114. ¿El usuario fue valorado en consulta o procedimiento de cuidado paliativo en el periodo 
+de reporte actual? (pueden haber sido múltiples), registre: 
+1: Sí fue valorado 
+2: No recibió 
+ 
+======================================================================
+### PAGINA 51
+======================================================================
+ 
+Página 51 de 61 
+ 
+ 
+114.1. El usuario recibió consulta o procedimiento de cuidado paliativo en el periodo de reporte 
+actual, por médico especialista en cuidado paliativo. Registre: 
+1: Sí fue valorado. 
+2: No recibió 
+ 
+114.2. El usuario recibió consulta o procedimiento de cuidado paliativo en el periodo de reporte 
+actual, por profesional de la salud (no médico, incluye psicólogo) es pecialista en cuidado 
+paliativo. Registre: 
+1: Sí fue valorado. 
+2: No recibió 
+ 
+114.3. El usuario recibió consulta o procedimiento de cuidado paliativo en el periodo de reporte 
+actual, por médico especialista, otra especialidad. Registre: 
+1: Sí fue valorado. 
+2: No recibió 
+ 
+114.4. El usuario recibió consulta o procedimiento de cuidado paliativo en el periodo de reporte 
+actual, por médico general. Registre: 
+1: Sí fue valorado. 
+2: No recibió 
+ 
+114.5. El usuario recibió consulta o procedimiento de cuidado paliativo en el periodo de reporte 
+actual, por trabajo social. Registre: 
+1: Sí fue valorado. 
+2: No recibió 
+ 
+114.6. El usuario recibió consulta o procedimiento de cuidado paliativo en el periodo de reporte 
+actual, por otro profesional de salud (no médico, incluye psicólogo) no especializado: Registre: 
+1: Sí fue valorado. 
+2: No recibió 
+ 
+ 
+Aclaraciones 
+*Reporte la consulta con el profesional que tenga la especialidad de cuidados paliativos.  
+*No aplican consultas o procedimientos propuestas, pero no realizadas (se eliminó la 
+opción 3) 
+*La atención paliativa aplica para todo tipo de cáncer y en cualquier estadio, no es 
+exclusivo de estadios avanzados. 
+Aclaraciones 
+*Se elimina la opción 3 (no recibió, aunque fue propuesta) de las variables 114.1 a 114.6. 
+======================================================================
+### PAGINA 52
+======================================================================
+ 
+Página 52 de 61 
+ 
+115. Fecha de primera consulta o procedimiento de cuidado paliativo en el periodo de reporte 
+actual: Registre la fecha de primera interconsulta o procedimiento en el formato AAAA-MM-DD.  
+Si conoce sólo el año y el mes, registre el día 15. 
+1845-01-01: No Aplica. 
+ 
+116. Código de la IPS donde recibe la atención de cuidado paliativo en el periodo de reporte 
+actual: registre el código de habilitación de IPS (disponible en la página web REPS – código de 12 
+dígitos incluido el cero inicial). 
+98: No Aplica 
+ 
+117. ¿Ha sido valorado el usuario por el servicio de psiquiatría en el periodo de reporte actual?: 
+Registre: 
+1: Sí fue valorado. 
+2: No, se ordenó, pero está pendiente 
+98: No aplica, no se ha ordenado valoración por psiquiatría 
+ 
+118. Fecha de primera consulta con el servicio de psiquiatría (para todos los usuarios) en el 
+periodo de reporte actual: Fecha de primera interconsulta en el formato AAAA -MM-DD. Si 
+conoce sólo el año y el mes, registre el día 15. 
+1845-01-01: No Aplica. 
+ 
+119. Código de la IPS donde recibió la primera valoración de psiquiatría en el periodo de reporte 
+actual: registre el código de habilitación de IPS (disponible en la página web REPS – código de 12 
+dígitos incluido el cero inicial). 
+98: No Aplica 
+ 
+120. ¿Fue valorado el usuario por profesional en nutrición en el periodo de reporte actual?: 
+Registre: 
+1: Sí fue valorado. 
+2: No, se ordenó, pero está pendiente 
+98: No aplica, no se ha ordenado valoración por nutrición 
+ 
+121. Fecha de consulta inicial con nutrición en el periodo de reporte actual: registre la fecha en 
+que se inició esta atención en el formato AAAA -MM-DD. Si conoce sólo el año y el mes, registre 
+el día 15. 
+1845-01-01: No Aplica. 
+ 
+122. Código de la IPS donde recibió la valoración por nutrición, en el periodo de reporte actual: 
+registre el código de habilitación IPS (disponible en la página web REPS  – código de 12 dígitos 
+incluido el cero inicial). 
+98: No Aplica 
+======================================================================
+### PAGINA 53
+======================================================================
+ 
+Página 53 de 61 
+ 
+ 
+123. ¿El usuario recibió soporte nutricional?: registre: 
+1: Si recibió soporte nutricional enteral 
+2: Si recibió soporte nutricional, parenteral 
+3: Si recibió soporte nutricional enteral y parenteral (opciones:1 y 2) 
+4: No recibió soporte nutricional 
+ 
+Aclaraciones 
+*Vía de nutrición enteral: técnica de soporte nutricional administrada mediante sonda, 
+directamente al sistema gastrointestinal. 
+*Vía de nutrición parenteral: técnica de soporte nutricional administrada por vía venosa. 
+*No es válido el reporte de fórmulas nutricionales de administración oral 
+ 
+124. ¿El usuario ha recibido terapias complementarias para su rehabilitación? 
+1: Si, Terapia física 
+2: Si, terapia de lenguaje 
+3: Si, Terapia ocupacional 
+5: 1 y 2 
+6: 1 y 3 
+7: 2 y 3 
+8: 1, 2 y 3 
+98: No aplica, no se han ordenado terapias. 
+ 
+ 
+SITUACIÓN ACTUAL DEL USUARIO (A LA FECHA DE CORTE -1º de enero de 2026) 
+ 
+125. Tipo de tratamiento que está recibiendo el usuario a la fecha de corte (2026-01-01): 
+Registre: 
+1: Radioterapia 
+2: Terapia sistémica (incluye quimioterapia, anticuerpos monoclonales, terapia biológica, terapia 
+hormonal) 
+3: Cirugía (reporte solo cuando el procedimiento se haya realizado a p artir del 1 de noviembre 
+de 2025) 
+4: 1 y 2 
+5: 1 y 3 
+6: 2 y 3 
+7: Manejo expectante pretratamiento 
+8: En seguimiento, luego de tratamiento durante el periodo 
+Aclaraciones 
+*No aplican terapias propuestas, pero no realizadas (se eliminó la opción 4) 
+======================================================================
+### PAGINA 54
+======================================================================
+ 
+Página 54 de 61 
+ 
+9: Antecedente de cáncer (no recibió ningún tratamiento, pero tiene como mínimo una consulta 
+de seguimiento relacionada con el cáncer dentro del periodo) 
+10: 1, 2 y 3 
+11: Manejo de cuidado paliativo o terapia complementaria. 
+98: No Aplica (paciente se encuentra fallecido, abandonó el tratamiento, alta voluntaria o se 
+encuentra desafiliado) 
+ 
+RESULTADO FINAL DE MANEJO ONCOLÓGICO EN ESTE PERIODO DE REPORTE 
+ 
+126. Resultado final del manejo oncológico en este periodo de reporte, luego de ser tratado en 
+este periodo el usuario está en: 
+ 
+1: Pseudoprogresión (aplica solo para inmunoterapia)  
+2: Progresión o recaída 
+3: Respuesta parcial 
+4: Respuesta completa 
+5: Enfermedad estable  
+6: Abandono del tratamiento o alta voluntaria 
+7: Paciente en seguimiento por antecedente de cáncer 
+8: Pendiente iniciar el tratamiento luego del diagnóstico (fue definido por especialista o aún está 
+pendiente por valoración oncológica inicial, en la cual se defina el tratamiento) 
+97: No aplicable en este periodo, aún bajo tratamiento inicial 
+98: No aplicable en este periodo, aún bajo tratamiento de recaída 
+99: No aplica, el paciente se encuentra fallecido, o se encuentra desafiliado 
+ 
+Aclaraciones 
+* Pseudoprogresión: aumento o aparición de lesiones por infiltración de células inflamatorias, 
+con posterior disminución o desaparición de éstas, hecho que traduce en realidad la respuesta al 
+tratamiento (aplica sólo para inmunoterapia). 
+ 
+* Progresión o recaída: cuando hay un crecimiento detectado en el tumor mayor o igual al 25%. 
+ 
+* Remisión (respuesta) parcial: disminución del tamaño de un tumor medible mayor o igual al 
+30%. 
+*Remisión (respuesta) completa: desaparición de toda evidencia clínica de la enfermedad. Esto 
+no siempre traduce curación. 
+ 
+*Enfermedad estable: no remisión parcial ni progresión, es decir, el tumor aumentó menos del 
+25% y disminuyó menos del 30%. No cumple criterios de remisión parcial (disminución mayor o 
+igual al 30%) ni de progresión (aumento del tamaño del tumor mayor o igual al 25%). 
+ 
+======================================================================
+### PAGINA 55
+======================================================================
+ 
+Página 55 de 61 
+ 
+ 
+127. Estado vital al finalizar este periodo de reporte: Registre: 
+1: Vivo 
+2: Fallecido 
+99: Desconocido 
+ 
+128. Novedad ADMINISTRATIVA del usuario respecto al reporte anterior: Registre: 
+0: no presenta novedad con respecto al reporte anterior (vivo y afiliado a la entidad). 
+1: usuario ingresó a la EAPB en el periodo de reporte y ya tenía el diagnóstico de cáncer 
+2: usuario con un nuevo diagnóstico de cáncer entre el 2 de enero  de 2025 y el 1 de enero de 
+2026 
+3: usuario con diagnóstico antiguo de cáncer que no había sido incluido en el reporte anterior 
+4: usuario que falleció 
+5: usuario que se desafilió 
+6: usuario para eliminar de la base de datos por corrección luego de auditoría interna o de CAC 
+7: usuario que firmó alta voluntaria del tratamiento 
+8: usuario con cambio de tipo o número de ID 
+9: usuario abandonó el tratamiento y es imposible de ubicar 
+10: usuario no incluido en reporte anterior y está fallecido en el momento del reporte actual 
+11: trasladado de IPS 
+12: usuario que es notificado con dos o más cánceres en este periodo 
+13: usuario no incluido en reporte anterior y está desafiliado en el momento del reporte actual 
+15: Comunidad migrante de la República de Venezuela 
+16: Usuario con cambio de CIE-10: aplica para casos con cánceres secundarios o no especificados 
+en los que se define el primario o se especifica el tipo de cáncer.  
+17: Usuario identificado por cruce con fuentes externas, con diagnóstico de cáncer no gestionado 
+por la EAPB. 
+18: Usuario identificado por cruce con fuentes externas, con diagnóstico descartado por la EAPB 
+o fallecido /desafiliado no gestionado por la entidad sin diagnóstico confirmado de cáncer. 
+19: Paciente trasladado que fue glosado en periodo anterior, que no fue gestionado por la 
+entidad en el periodo actual.  
+ 
+ 
+Aclaraciones 
+* Para el reporte de casos que cambian de tipo y número de identificación , se debe reportar el 
+registro dos veces, el primer registro (con la identificación actualizada) con la novedad que 
+corresponda al periodo de reporte y el segundo registro (con la identificación del periodo 
+anterior) con la opción 8 : usuario con cambio de tipo o número de ID, lo anterior con el fin de 
+*Si se reporta el paciente con opción 7 : Paciente en seguimiento por antecedente de cáncer, 
+tener en cuenta que como mínimo debe haber tenido una atención en el periodo directamente 
+relacionada con la gestión y seguimiento para el cáncer. 
+======================================================================
+### PAGINA 56
+======================================================================
+ 
+Página 56 de 61 
+ 
+evitar el reporte de omitidos en el proceso de cargue de la información. La CAC una vez recibida 
+la información inactivara en el sistema el registro que fue reportado con la opción 8.  
+ 
+* La novedad 19, se creó exclusivamente para los casos con inconsistencia en el periodo anterior 
+quienes fueron trasladados de entidad en el periodo actual y que no hayan sido gestionados por 
+la entidad receptora. Este tipo de pacientes no serán auditados, pero sí serán requeridos para el 
+próximo periodo. 
+ 
+* La novedad 6 (eliminados), se utiliza para eliminar de la cohorte casos requeridos “activoscac”, 
+prima sobre las demás novedades (inc luso desafiliados y fallecidos), ya que después de revisión 
+de la EAPB y la red de prestadores identifican que el paciente no tiene cáncer, por lo cual no 
+pertenece a la cohorte. 
+ 
+* En los pacientes con diagnóstico confirmado que presentan estado vital fallecido, seleccionar la 
+opción 4: usuario que falleció, cuando el paciente es “activocac”, y utilizar la opción  10: usuario 
+no incluido en reporte anterior y está fallecido en el momento del reporte actual , cuando el 
+paciente es reportado por primera vez a la CAC, es decir, tipo de requerido diferente de “activo”.  
+ 
+*Los pacientes con dos o más lesiones primarias que presentan estado vital fallecido, las líneas 
+deben quedar con la novedad administrativa de fallecido, según corresponda. Esta novedad 
+prima sobre las demás.  
+ 
+*En los pacientes vivos con diagnóstico de cáncer confirmado y que el estado de afiliación al 
+finalizar el periodo es desafiliado, utilizar la opción 5: usuario que se desafilió, cuando el paciente 
+es tipo de requerido “activocac”, y la opción 13: usuario no incluido en reporte anterior y está 
+desafiliado en el momento del reporte actual, cuando se trata de pacientes reportado por primera 
+vez a la CAC, es decir, tipo de requerido diferente a “activocac”.  
+ 
+*Los pacientes vivos con dos o más lesiones primarias que presentan estado de afiliación 
+“desafiliado” en la misma entidad, las líneas deben quedar con la novedad administrativa de 
+desafiliado, según corresponda. Esta novedad prima sobre las demás.  
+ 
+* En pacientes con diagnóstico de cáncer confirmado, sean reportados por primera vez a la CAC 
+(nuevos) o reportados previamente con diagnóstico confirmado (anteriores), si su estado vital es 
+fallecido y se mantiene la confirmación del diagnóstico, esta novedad administrativa prima sobre 
+las demás.  
+ 
+*Sí el paciente cuenta con el diagnóstico de cáncer confirmado, puede utilizar la novedad 
+administrativa según corresponda para paciente vivo, activo, desafiliado o fallecido (variable 128 
+opciones 0,1,2,3,4,5,7,9,10,11,12,13,15, y 16); En contraste, para d icho contexto no pueden 
+utilizar las opciones 6, 17, 18, 19, ya que puede incurrir en calificaciones de no calidad en el 
+proceso de auditoría, debido a que estas opciones que indican que tiene el diagnóstico 
+descartado o en gestión. 
+ 
+======================================================================
+### PAGINA 57
+======================================================================
+ 
+Página 57 de 61 
+ 
+*Sí el paciente se encuentra en gestión de confirmación o descarte del diagnóstico, puede usar 
+las opciones 6, 17, 18 y 19. No puede usar las siguientes novedades opciones 
+0,1,2,3,4,5,7,9,10,11,12,13,15 y 16, debido a que estas son para paciente con diagnós tico 
+confirmado; el uso incorrecto de las novedades administrativas genera inconsistencias y datos 
+de no calidad.  
+*En los casos con clasificación tipo requerido “registro simplificado de datos”, no de debe utilizar 
+la novedad administrativa opción 17, ya que estos casos son informados por las entidades cuando 
+tiene el diagnóstico de cáncer confirmado.  En caso de identificar que un caso presentó descarte 
+del diagnóstico, los deben reportar con novedad administrativa opción 18. 
+EXCLUSIVAMENTE PARA REQUERIDOS POR FUENTES EXTERNAS 
+ 
+A continuación, se describen aspectos para tener en cuenta para el reporte de los registros 
+requeridos de fuentes externas  (base de datos suficiencia UPC y casos notificados por fichas 
+técnicas del instituto nacional de salud) para el periodo 2026: 
+ 
+* Los usuarios con diagnóstico de cáncer que fueron identificados a través de cruces con fuentes 
+externas y son requeridos “diagnóstico no gestionado” para el periodo 2026, que no tuvieron 
+atenciones durante el periodo de reporte o no cuentan con la gestión y/o soportes suficientes 
+para validar la confirmación o descarte del diagnóstico , deben ser reportados con la novedad  
+administrativa 17. Estos casos no serán objeto de auditoría en el periodo 2026; sin embargo, la 
+entidad tiene la responsabilidad de gestionar el diagnóstico para informar en el siguiente periodo, 
+por lo cual son requeridos obligatorios para el siguiente periodo.  
+ 
+* Para los usuarios identificados por cruce de fuentes externas con posible diagnóstico de cáncer, 
+pero que después de la auditoría interna llevada a cabo por la entidad, fue descartado , registrar 
+la novedad administrativa 18 y disponer al proceso de auditoría los soportes en los cuales se 
+evidencia que el diagnóstico de cáncer fue descartado. Estos casos serán objeto de verificación y 
+lLos casos que no cuenten con soportes y usen esta novedad administrativa se aplicará 
+inconsistencia. 
+ 
+* Si se trata de un usuario requerido por fuentes externas actualmente fallecido, que no fue 
+gestionado y la entidad no cuenta con los soportes que permitan confirmar el diagnós tico, 
+reportar con novedad administrativa opción 18. 
+ 
+* Si se trata de pacientes requeridos por fuentes externas, con diagnóstico confirmado y gestión 
+en el periodo, reportar con la novedad que aplique, según su estado vital y de afiliación, se 
+auditarán como casos nuevos.  
+ 
+* Recuerde que las novedades 17 y 18 para los usuarios requeridos después de cruces con fuentes 
+externas, priman sobre las demás novedades. 
+ 
+======================================================================
+### PAGINA 58
+======================================================================
+ 
+Página 58 de 61 
+ 
+*Los casos requeridos por fuentes externas y no gestionado periodo anterior , en los cuales el 
+asegurador y el prestador realizan gestión en la búsqueda del paciente, pero no logran que acuda 
+a la atención en salud para definir o descartar el diagnóstico de cáncer, se deben reportar con la 
+novedad administrativa 17 (Diagnóstico no confirmado).  
+ 
+*Para aclaraciones de requeridos se recomienda revisar en el manual de auditoría la sección 4.1.2 
+validaciones de requeridos.  
+ 
+Por otra parte, en la siguiente tabla se describen los contextos para el uso de las novedades 
+administrativas en los pacientes vivos y activos en la entidad.  
+ 
+Tabla 1. Selección de novedades administrativas en pacientes vivos y activos 
+Contexto de paciente vivo y activo Reporte de las novedades 
+Paciente vivo y activo a quien se 
+descartó el diagnóstico de cáncer, y 
+no es requerido de fuentes externas 
+Reporte la novedad administrativa con la opción 6 en la 
+línea a eliminar.  
+Esta novedad prima sobre todas las demás.  
+Paciente vivo y activo con dos o más 
+cánceres  
+Reporte la novedad administrativa con la opción 12 en las 
+líneas (2 o más) que tenga el paciente.  
+Esta novedad prima sobre todas las demás en paciente 
+vivo y activo con diagnóstico confirmado. 
+Paciente vivo y activo con cambio 
+de tipo y número de ID 
+Reporte una línea con la novedad administrativa opción 8 
+y otra línea con los datos actualizados de tipo y número de 
+ID y con la novedad correspondiente al periodo.  
+Paciente vivo y activo con cambio 
+de CIE-10 
+Reporte una línea con la novedad administrativa opción 16 
+y otra línea con el dato actualizado del CIE-10 y la novedad 
+correspondiente al periodo. 
+Paciente vivo y activo con cambio 
+de CIE-10 y con dos o más cánceres 
+Reporte la(s) línea(s) a ajustar con el CIE -10 antiguo y la 
+novedad administrativa 16, luego reporte las líneas con el 
+dato del CIE-10 actualizado y la novedad administrativa 12, 
+paciente con dos o más cánceres. 
+Paciente vivo y activo en abandono 
+y con cambio de tipo y número de 
+ID 
+Reporte una línea con la novedad administrativa opción 8 
+y otra línea con los datos actualizados de tipo y número de 
+ID y con la novedad de abandono. 
+Paciente vivo y activo en abandono 
+y con traslado de EAPB, con 
+diagnóstico antiguo de cáncer 
+Reporte en una línea con la novedad 9 (abandono).  
+ 
+Paciente vivo y activo con 
+inconsistencia en el periodo 
+anterior y cambio de entidad.  
+Reporte una línea con novedad 19 (paciente trasladado 
+que fue glosado en periodo anterior, que no fue 
+gestionado por la entidad en el periodo actual) 
+ 
+ 
+ 
+======================================================================
+### PAGINA 59
+======================================================================
+ 
+Página 59 de 61 
+ 
+129. Novedad clínica del usuario a la fecha de corte: Registre: 
+1: Usuario que está en manejo inicial curativo 
+3: Usuario que finalizó tratamiento inicial y está en seguimiento 
+8: Abandono de tratamiento 
+9: Usuario firmó alta voluntaria 
+10: Usuario en manejo expectante antes de tratamiento 
+11: Usuario que está en manejo paliativo (incluye manejo de metástasis o de recaída) 
+12: Usuario fallecido o desafiliado 
+ 
+Aclaraciones 
+*La opción 11, recopila los pacientes con todos los tipos de cáncer, que reciben terapia con 
+intención paliativa a la fecha de corte.  
+ 
+130. Fecha de desafiliación de la EAPB:  
+Registre la fecha en la que el usuario se desafilió de la EAPB en el formato AAAA-MM-DD 
+1845-01-01: No Aplica, el usuario no se desafilió 
+ 
+131. Fecha de muerte:  
+Registre la fecha en la que el usuario falleció en el formato AAAA-MM-DD 
+1845-01-01: No Aplica, el usuario no falleció o su estado vital no se conoce 
+ 
+Aclaraciones 
+*Si un paciente se encuentra fallecido y desafiliado, teniendo en cuenta que prima la novedad 
+de fallecimiento, sólo reportar la fecha de muerte en variable 131 y comodín 1845 -01-01 en 
+fecha de desafiliación. 
+ 
+*En los casos en que la entidad verifique y el paciente tenga estado vital vivo, pero BDUA lo 
+reporte como estado vital fallecido, para el proceso de la auditoria disponer los soportes de las 
+atenciones en salud y el soporte de la afiliación a la entidad. 
+ 
+132. Causa de muerte:  
+Registre: 
+1: Muerte asociada al cáncer 
+2: Muerte por patología clínica no relacionada al cáncer 
+3: Muerte por causa externa 
+4: Muerte por causa no conocida 
+98: No Aplica, usuario vivo o se desconoce su estado vital 
+ 
+133. Código único de identificación (BDUA -BDEX-PVS): Registre el código único serial de 
+identificación BDUA - BDEX- PVS asignado al paciente por el Ministerio de Salud y Protección 
+Social. 
+======================================================================
+### PAGINA 60
+======================================================================
+ 
+Página 60 de 61 
+ 
+ 
+134. Fecha de Corte: Diligencie esta variable con la fecha 2026-01-01 
+ 
+Tabla 1. Control de cambios del documento 
+Versión 
+N° Fecha Observaciones de los ajustes realizados 
+Emisión 
+inicial 2026-02-13 
+Respecto al instructivo de reporte de información del periodo 2026 
+se realizaron los siguientes ajustes:  
+• Actualización de  las fechas que corresponden al periodo 2 
+enero de 2025 al 1 enero de 2026. 
+• Aclaraciones de la población objeto de reporte de 
+información. 
+• Se incluyen aclaraciones en variable 16, 17, 20, 26, 45, 49, y 
+128.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+======================================================================
+### PAGINA 61
+======================================================================
+ 
+Página 61 de 61 
+ 
+ 
+ 
